@@ -289,7 +289,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
-#### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
+### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2019-08-07
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
