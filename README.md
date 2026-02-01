@@ -17,7 +17,7 @@ Index-verified citations appear exclusively in my [Google Scholar profile](https
 
 ###  External academic presence
 
-This repository complements my professional GitHub portfolio  ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps, Cloud Engineering and production systems, by providing the academic and editorial infrastructure that supports my research, publication and review activities.
+This repository complements my professional GitHub portfolio  ([metorresponce](https://github.com/metorresponce)), which focuses on DevOps, Cloud Engineering and production systems, by providing the academic and editorial infrastructure that supports my research, publication and review activities.
 
 A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
