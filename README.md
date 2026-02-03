@@ -143,6 +143,17 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
 
+### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
+- **Author**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
+- **Date**: 2026-02-02
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
+- **Language**: English
+- **Abstract**: AI mediates human movement detection in audiovisual media, reshaping gesture, meaning, and legal responsibility.
+- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6168410)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
+
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2025-09-17
