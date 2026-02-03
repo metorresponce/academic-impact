@@ -142,6 +142,19 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
+
+### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
+*Detectar no es Comprender: Análisis funcional, audiovisual y jurídico de la mediación algorítmica del movimiento humano*
+- **Autores**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
+- **Fecha**: 2026-02-02
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
+- **Idioma**: Inglés
+- **Resumen**: La IA media la detección del movimiento humano en medios audiovisuales, reconfigurando gesto, significado y responsabilidad legal.
+- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6168410)
+- **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
+- **PDF del Autor**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
+
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
