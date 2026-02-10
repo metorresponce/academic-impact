@@ -42,15 +42,16 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ## Índice
 1. [Artículos Publicados (Revisados por pares)](#indice1)
 2. [Publicaciones en Acceso Abierto con DOI](#indice2)
-3. [Distribución en eJournals de SSRN](#indice3)
-4. [Capítulos de Libro (como obra citada)](#indice4)
-5. [Revistas Académicas (como obra citada)](#indice5)
-6. [Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)](#indice6)
-7. [Medios Jurídicos y Profesionales](#indice7)
-8. [Menciones en Prensa](#indice8)
-9. [Citaciones en Google Scholar](#indice9)
-10. [Líneas de Investigación](#indice10)
-11. [Nota Final](#indice11)
+3. [Publicaciones del grupo con revisión académica interna (sin autoría directa)](#indice2-5)
+4. [Distribución en eJournals de SSRN](#indice3)
+5. [Capítulos de Libro (como obra citada)](#indice4)
+6. [Revistas Académicas (como obra citada)](#indice5)
+7. [Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)](#indice6)
+8. [Medios Jurídicos y Profesionales](#indice7)
+9. [Menciones en Prensa](#indice8)
+10. [Citaciones en Google Scholar](#indice9)
+11. [Líneas de Investigación](#indice10)
+12. [Nota Final](#indice11)
 
 
 ---
@@ -161,7 +162,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
 - **Autores**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Fecha**: 2025-06-03
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Idioma**: Español
 - **Resumen**: Analiza los riesgos éticos, jurídicos y clínicos del uso de la IA en la salud mental, con énfasis en la seguridad del paciente, los sesgos algorítmicos, las limitaciones culturales y el carácter irremplazable de la relación terapéutica humana.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
@@ -172,7 +173,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Código Abierto Bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2025-05-21
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Examina el impacto del Reglamento Europeo de Ciberresiliencia en el software de código abierto y propone automatización DevSecOps como modelo de gobernanza.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
@@ -185,7 +186,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Inteligencia Artificial en la Salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2024-12-20
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & María Noel Arana
+- **Licencia**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce & María Noel Arana
 - **Idioma**: Inglés
 - **Resumen**: Estudia las implicancias regulatorias y éticas de la IA en atención pediátrica en EE. UU., con énfasis en responsabilidad civil, consentimiento informado y transparencia.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
@@ -197,7 +198,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2024-07-24
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce
 - **Idioma**: Español
 - **Resumen**: Explora la transformación de la propiedad digital en regímenes de acceso bajo modelos SaaS y economías de plataformas, articulando una mirada interdisciplinaria entre el derecho, la tecnología y la economía.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
@@ -209,7 +210,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *La Burocracia de los Mil Clics: La erosión del debido proceso en la administración digital*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2024-03-14
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Análisis de cómo la burocracia digital traslada las cargas procedimentales a los ciudadanos, erosionando las garantías del debido proceso a través de la mediación tecnológica y la gobernanza basada en plataformas.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281) [(Ver distribución de eJournal)](#indice3)
@@ -221,7 +222,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-12-15
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
 - **Idioma**: Español
 - **Resumen**: Analiza la gobernanza de la infraestructura pospandémica a través de la automatización de GitOps, la resiliencia y el cambio cultural hacia la entrega continua.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
@@ -233,7 +234,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Sobrediagnóstico por Saturación Informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
 - **Autor**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
 - **Fecha**: 2023-07-20
-- **Licencia**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Licencia**: CC BY-NC-ND 4.0 – © 2023 María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Idioma**: Inglés
 - **Resumen**: Examina cómo la sobrecarga de información médica transforma el encuentro clínico, contribuyendo a la ansiedad por la salud y al sobrediagnóstico en la atención pediátrica y de adultos.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
@@ -246,7 +247,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-02-07
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Introduce la confiabilidad como estándar jurídico y ético en la gobernanza operativa.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
@@ -259,7 +260,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-11-18
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2022 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Analiza la *lex sportiva* del fútbol como sistema jurídico transnacional moldeado por instituciones, tecnología y estándares procesales.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
@@ -271,7 +272,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *From the Panopticon to the Datapoint: Governance and control by design*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-03-10
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2022 Mariano Enrique Torres Ponce
 - **Idioma**: Español
 - **Resumen**: Analiza la evolución desde las sociedades de vigilancia a la gobernanza algorítmica, definiendo el control como una propiedad de la propia arquitectura digital.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
@@ -295,7 +296,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2019-08-07
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2019 Mariano Enrique Torres Ponce
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
@@ -306,7 +307,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2019-04-10
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2019 Mariano Enrique Torres Ponce
 - **Idioma**: Español
 - **Resumen**: Estudia cómo la trazabilidad documental refuerza la responsabilidad institucional en seguridad de la información.
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
@@ -314,6 +315,23 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
+## Publicaciones del grupo con revisión académica interna (sin autoría directa)<a id="indice2-5"></a>
+
+### Child Health and Functional Well-Being in Changing Social Contexts
+*Salud infantil y bienestar funcional en contextos sociales cambiantes*
+- **Autores**: María Noel Arana; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani  
+- **Fecha**: 2023-01-12  
+- **Licencia**: CC BY-NC-ND 4.0 – © 2023 María Noel Arana, Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
+- **Idioma**: Inglés  
+- **Resumen**: Examina cómo la disrupción social sostenida ha reconfigurado la salud infantil a través de cambios en hábitos cotidianos, movimiento, regulación emocional y participación social, desde una perspectiva funcional e interdisciplinaria.  
+- **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18528025)  
+- **PDF del Autor / Grupo**: [Descargar](Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
+- **Rol**: Revisión académica interna y validación conceptual previa a la publicación.
+
+---
+
 ## Distribución en eJournals de SSRN<a id="indice3"></a>
 
 Una selección de estos trabajos de investigación ha sido distribuida editorialmente a través de eJournals temáticos de SSRN. La distribución refleja la pertinencia temática y la inclusión en circuitos académicos curatoriales en los ámbitos del derecho, la regulación, la tecnología y la gobernanza.
