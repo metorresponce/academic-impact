@@ -142,7 +142,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: La IA media la detección del movimiento humano en medios audiovisuales, reconfigurando gesto, significado y responsabilidad legal.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6168410)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **PDF del Autor**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
 
@@ -154,7 +154,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Extiende los marcos DORA de cumplimiento a la resiliencia operativa mediante automatización DevOps y observabilidad por diseño.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#indice3)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5497878) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
@@ -177,7 +177,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Examina el impacto del Reglamento Europeo de Ciberresiliencia en el software de código abierto y propone automatización DevSecOps como modelo de gobernanza.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#indice3)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5552760) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
@@ -190,7 +190,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Estudia las implicancias regulatorias y éticas de la IA en atención pediátrica en EE. UU., con énfasis en responsabilidad civil, consentimiento informado y transparencia.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#indice3)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5468846) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
@@ -202,7 +202,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Español
 - **Resumen**: Explora la transformación de la propiedad digital en regímenes de acceso bajo modelos SaaS y economías de plataformas, articulando una mirada interdisciplinaria entre el derecho, la tecnología y la economía.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Versión paralela**: [SSRN](http://doi.org/10.2139/ssrn.5687822)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17278111)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
@@ -214,7 +214,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Análisis de cómo la burocracia digital traslada las cargas procedimentales a los ciudadanos, erosionando las garantías del debido proceso a través de la mediación tecnológica y la gobernanza basada en plataformas.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281) [(Ver distribución de eJournal)](#indice3)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
@@ -226,7 +226,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Español
 - **Resumen**: Analiza la gobernanza de la infraestructura pospandémica a través de la automatización de GitOps, la resiliencia y el cambio cultural hacia la entrega continua.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
@@ -238,7 +238,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Examina cómo la sobrecarga de información médica transforma el encuentro clínico, contribuyendo a la ansiedad por la salud y al sobrediagnóstico en la atención pediátrica y de adultos.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6056414) [(Ver distribución de eJournal)](#indice3)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6056414) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6056414) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
@@ -251,7 +251,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Introduce la confiabilidad como estándar jurídico y ético en la gobernanza operativa.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5613230) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
@@ -264,7 +264,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Analiza la *lex sportiva* del fútbol como sistema jurídico transnacional moldeado por instituciones, tecnología y estándares procesales.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#indice3)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
@@ -276,7 +276,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Español
 - **Resumen**: Analiza la evolución desde las sociedades de vigilancia a la gobernanza algorítmica, definiendo el control como una propiedad de la propia arquitectura digital.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
-- **Versión paralela**: [SSRN](https://ssrn.com/abstract=5788802)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5788802)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
@@ -288,7 +288,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés
 - **Resumen**: Analiza la transformación de la responsabilidad médica por telemedicina y salud digital.
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5695082) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5695082)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17506876)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
@@ -300,7 +300,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
-- **Versión paralela**: [SSRN](http://doi.org/10.2139/ssrn.5877403)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
@@ -325,7 +325,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés  
 - **Resumen**: Examina cómo la disrupción social sostenida ha reconfigurado la salud infantil a través de cambios en hábitos cotidianos, movimiento, regulación emocional y participación social, desde una perspectiva funcional e interdisciplinaria.  
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
-- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18528025)  
 - **PDF del Autor / Grupo**: [Descargar](Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Rol**: Revisión académica interna y validación conceptual previa a la publicación.
