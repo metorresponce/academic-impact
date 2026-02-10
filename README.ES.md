@@ -12,7 +12,6 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 `open-access/` — Versiones publicadas en acceso abierto desde repositorios institucionales y públicos  
 `citations/` — Evidencia documental de citas y referencias  
 `demos/` — Material interactivo y prototipos técnicos vinculados a trabajos específicos  
-`curation/` — Registros de revisión editorial de obras de terceros evaluadas para publicación  
 
 
 ### Presencia académica externa
@@ -20,15 +19,6 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 Este repositorio complementa mi portafolio profesional en GitHub  ([metorresponce](https://github.com/metorresponce)), orientado a DevOps, ingeniería cloud y sistemas de producción, proporcionando la infraestructura académica y editorial que sustenta mis actividades de investigación, publicación y revisión.
 
 Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
-
-### Revisión editorial
-
-Este repositorio también documenta obras de terceros evaluadas y referenciadas en el marco de mi función como **revisor editorial** en *Ciencia y Técnica Administrativa* (ISSN 1666-1680).  
-Los trabajos revisados se registran mediante identificadores persistentes y enlaces a sus repositorios de origen.  
-Los textos completos permanecen alojados en sus plataformas editoriales originales.
-
-Las decisiones de referencia y selección responden a criterios de relevancia temática, calidad metodológica, trazabilidad y coherencia con las líneas de investigación en derecho digital, gobernanza tecnológica, inteligencia artificial y sistemas críticos.
-
 
 ### Identificación del autor
 
