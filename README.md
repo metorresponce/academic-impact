@@ -142,7 +142,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: AI mediates human movement detection in audiovisual media, reshaping gesture, meaning, and legal responsibility.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6168410)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
 
@@ -153,7 +153,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5497878) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
@@ -165,7 +165,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
-- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
+- **DOI**: [SSRN - URL](https://ssrn.com/abstract=17297095) / [SSRN - DOI](https://doi.org/10.2139/ssrn.17297095)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
@@ -176,7 +176,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5552760) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
@@ -188,7 +188,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5468846) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
@@ -201,7 +201,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Parallel version**: [SSRN](http://doi.org/10.2139/ssrn.5687822)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
@@ -212,7 +212,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
@@ -226,7 +226,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: Spanish
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
@@ -237,7 +237,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributing to health anxiety and overdiagnosis in pediatric and adult care.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6056414) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6056414) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
@@ -249,7 +249,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5613230) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5613230)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
@@ -261,7 +261,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Analyses football’s *lex sportiva* as a transnational legal system shaped by institutions, technology and procedural standards.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
@@ -273,7 +273,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
-- **Parallel version**: [SSRN](https://ssrn.com/abstract=5788802)
+- **Parallel version**: [SSRN URL](https://ssrn.com/abstract=5788802)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
@@ -284,7 +284,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English
 - **Abstract**: Examines how telemedicine and digital health transformed medical responsibility, reshaping clinical judgment, ethical accountability, and legal frameworks.
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5695082) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5695082)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
@@ -297,7 +297,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: Spanish
 - **Abstract**: Analyzes how IT contracts protect operational continuity through safeguards and accountability.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
-- **Parallel version**: [SSRN](http://doi.org/10.2139/ssrn.5877403)
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
@@ -325,7 +325,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Abstract**: Examines how sustained social disruption has reshaped child health through changes in daily habits, movement patterns, emotional regulation, and social participation, adopting a functional and interdisciplinary perspective.  
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
-- **Permanent URI (Internet Archive)**: https://archive.org/details/zenodo.18528025  
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18528025)  
 - **Author / Group PDF**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Role**: Academic internal review and conceptual validation prior to publication.
 
