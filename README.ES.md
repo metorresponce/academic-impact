@@ -64,7 +64,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Revista**: Técnica Administrativa, Vol. 25, Nº 2, Order: 3, Issue: 106 (2026)
 - **ISSN**: 1666-1680
 - **Fecha**: 2026-04-15
-- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Licencia**: CC BY 4.0 – © 2026 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Inglés
 - **Resumen**: Define el poder operativo como una forma de autoridad incorporada en los sistemas digitales que configura la gobernanza y el debido proceso a través del diseño.
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=250203)
@@ -78,7 +78,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Revista**: Técnica Administrativa, Vol. 24, Nº 4, Orden: 2, Número: 104 (2025)
 - **ISSN**: 1666-1680
 - **Fecha**: 2025-10-15
-- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Licencia**: CC BY 4.0 – © 2025 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Propone una metodología forense para la preservación de evidencia digital en arquitecturas cloud-native, con especial atención a la volatilidad de los entornos distribuidos, la trazabilidad y la validez procesal.
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240402)
@@ -94,7 +94,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Revista**: Técnica Administrativa, Vol. 24, Nº 3, Orden: 2, Número: 103 (2025)
 - **ISSN**: 1666-1680
 - **Fecha**: 2025-07-15
-- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Licencia**: CC BY 4.0 – © 2025 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Este trabajo analiza el impacto de la IA generativa en autoría, originalidad y fijación, mediante una revisión comparada de marcos normativos y casos relevantes.
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
@@ -108,7 +108,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Revista**: Técnica Administrativa, Vol. 19 (2020)
 - **ISSN**: 1666-1680
 - **Fecha**: 2020-11-08
-- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Licencia**: CC BY 4.0 – © 2020 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Examina la evolución de la informática forense y la cadena de custodia, con énfasis en la verificación de integridad y la transparencia procesal de la evidencia electrónica.
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=3)
@@ -122,7 +122,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Revista**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-1680
 - **Fecha**: 2019-12-15
-- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Licencia**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Exploración temprana sobre ética de la inteligencia artificial y derechos digitales, centrada en el dilema humano-máquina y la responsabilidad en la toma de decisiones automatizada.
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
@@ -138,7 +138,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Detectar no es Comprender: Análisis funcional, audiovisual y jurídico de la mediación algorítmica del movimiento humano*
 - **Autores**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
 - **Fecha**: 2026-02-02
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
+- **Licencia**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
 - **Idioma**: Inglés
 - **Resumen**: La IA media la detección del movimiento humano en medios audiovisuales, reconfigurando gesto, significado y responsabilidad legal.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
@@ -150,7 +150,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2025-09-17
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Extiende los marcos DORA de cumplimiento a la resiliencia operativa mediante automatización DevOps y observabilidad por diseño.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
