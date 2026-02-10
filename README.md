@@ -42,15 +42,16 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ## Table of Contents
 1. [Published Papers (Peer-Reviewed)](#index1)
 2. [Open Access Publications with DOI](#index2)
-3. [SSRN eJournal Distribution](#index3)
-4. [Book Chapters (as cited work)](#index4)
-5. [Academic Journals (as cited work)](#index5)
-6. [Theses, Student Papers & Institutional References (as cited work)](#index6)
-7. [Professional & Legal Media](#index7)
-8. [Press Mentions](#index8)
-9. [Google Scholar Citations](#index9)
-10. [Research Interests](#index10)
-11. [Notes](#index11)
+3. [Group publications with academic internal review (no direct authorship)](#index2-5)
+4. [SSRN eJournal Distribution](#index3)
+5. [Book Chapters (as cited work)](#index4)
+6. [Academic Journals (as cited work)](#index5)
+7. [Theses, Student Papers & Institutional References (as cited work)](#index6)
+8. [Professional & Legal Media](#index7)
+9. [Press Mentions](#index8)
+10. [Google Scholar Citations](#index9)
+11. [Research Interests](#index10)
+12. [Notes](#index11)
 
 ---
 ## Published Papers (Peer-Reviewed)<a id="index1"></a>
@@ -61,7 +62,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Published in**: Técnica Administrativa, Vol. 25, Nº 2, Order: 3, Issue: 106 (2026)
 - **ISSN**: 1666-1680
 - **Date**: 2026-04-15
-- **License**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **License**: CC BY 4.0 – © 2026 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: English
 - **Abstract**: Defines operational power as a form of authority embedded in digital systems that shape governance and due process through design.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=250203)
@@ -76,7 +77,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 4, Order: 2, Issue: 104 (2025)
 - **ISSN**: 1666-1680
 - **Date**: 2025-10-15
-- **License**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **License**: CC BY 4.0 – © 2025 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Defines forensic methodology for evidence preservation in cloud-native architectures, addressing volatility, traceability, and procedural validity under distributed infrastructures.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)
@@ -92,7 +93,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
 - **ISSN**: 1666-1680
 - **Date**: 2025-07-15
-- **License**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **License**: CC BY 4.0 – © 2025 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Explores authorship and ownership in AI-assisted works, analyzing comparative legal standards and the transition from human creativity to algorithmic co-authorship.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
@@ -107,7 +108,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Published in**: Técnica Administrativa, Vol. 19 (2020)
 - **ISSN**: 1666-1680
 - **Date**: 2020-11-08
-- **License**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **License**: CC BY 4.0 – © 2020 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Reviews the evolution of digital forensics and chain of custody, focusing on integrity verification and procedural transparency in electronic evidence.
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
@@ -122,7 +123,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-1680
 - **Date**: 2019-12-15
-- **License**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **License**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Early theoretical exploration of AI ethics and digital rights, introducing the human–machine dilemma and accountability in automated decision-making.
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)
@@ -137,7 +138,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 - **Author**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
 - **Date**: 2026-02-02
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
+- **License**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
 - **Language**: English
 - **Abstract**: AI mediates human movement detection in audiovisual media, reshaping gesture, meaning, and legal responsibility.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
@@ -148,7 +149,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2025-09-17
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
@@ -161,7 +162,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *Artificial Intelligence in Mental Health: Patient safety, ethics, and law*
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Date**: 2025-06-03
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
@@ -171,7 +172,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2025-05-21
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
@@ -183,7 +184,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Date**: 2024-12-20
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & María Noel Arana
+- **License**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce & María Noel Arana
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
@@ -196,7 +197,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *Property in Transition: SaaS and the new regime of digital access*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2024-07-24
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
@@ -207,7 +208,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 - **Authors**: Mariano Enrique Torres Ponce
 - **Date**: 2024-03-14
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
@@ -221,7 +222,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *The Impact of Kubernetes and GitOps Adoption on Change Governance: An analysis from the post-COVID paradigm*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2023-12-15
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
@@ -232,7 +233,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 - **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
 - **Date**: 2023-07-20
-- **License**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **License**: CC BY-NC-ND 4.0 – © 2023 María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: English
 - **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributing to health anxiety and overdiagnosis in pediatric and adult care.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
@@ -244,7 +245,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2023-02-07
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
@@ -256,7 +257,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2022-11-18
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2022 Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Analyses football’s *lex sportiva* as a transnational legal system shaped by institutions, technology and procedural standards.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
@@ -268,7 +269,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *From the Panopticon to the Datapoint: Governance and control by design*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2022-03-10
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2022 Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
@@ -292,7 +293,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *IT Contracting in Argentina: Business continuity, source code escrow and infrastructure provision*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2019-08-07
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2019 Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Analyzes how IT contracts protect operational continuity through safeguards and accountability.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
@@ -304,12 +305,32 @@ The publication strategy prioritizes consolidated academic repositories and the 
 *Institutional Responsibility in Information Security: Documentary evidence and due diligence*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2019-04-10
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 – © 2019 Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Analyzes how documentary clarity and traceability strengthen institutional responsibility and support accountability in information security.
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17735815)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+
+---
+
+## Group publications with academic internal review (no direct authorship)<a id="index2-5"></a>
+
+### Child Health and Functional Well-Being in Changing Social Contexts  
+
+- **Authors**: María Noel Arana; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani  
+- **Date**: 2023-01-12  
+- **License**: CC BY-NC-ND 4.0 – © 2023 María Noel Arana, Romina Alejandra Torres & Sandra Susana Arroyo Giuliani  
+- **Language**: English  
+- **Abstract**: Examines how sustained social disruption has reshaped child health through changes in daily habits, movement patterns, emotional regulation, and social participation, adopting a functional and interdisciplinary perspective.  
+- **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
+- **Permanent URI (Internet Archive)**: https://archive.org/details/zenodo.18528025  
+- **Author / Group PDF**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
+- **Role**: Academic internal review and conceptual validation prior to publication.
+
+
+
 
 ---
 ## SSRN eJournal Distribution<a id="index3"></a>
