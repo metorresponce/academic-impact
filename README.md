@@ -68,7 +68,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=250203)
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18237585)
-- **Author's Copy PDF**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
@@ -84,7 +84,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575262)
 - **Supplementary material**: Supplementary interactive demo illustrating cloud-native forensic evidence handling and traceability [(Cloud-Native Evidence Demo)](https://metorresponce.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
-- **Author's Copy PDF**: [Download](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
 *Creations with Artificial Intelligence: ownership criteria and regulatory framework*
@@ -99,7 +99,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575998)
-- **Author's Copy PDF**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
 
 ### Informática Forense: El camino de la evidencia digital  
 *Computer Forensics: The path of digital evidence*
@@ -114,7 +114,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
-- **Author's Copy PDF**: [Download PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Download BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Download BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
 
 ### Derechos y Desafíos de la Inteligencia Artificial  
 *Rights and Challenges of Artificial Intelligence*
@@ -130,7 +130,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Download BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Download BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
@@ -144,7 +144,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
 
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
@@ -156,7 +156,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5497878) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
 *Artificial Intelligence in Mental Health: Patient safety, ethics, and law*
@@ -167,7 +167,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
 - **DOI**: [SSRN - URL](https://ssrn.com/abstract=17297095) / [SSRN - DOI](https://doi.org/10.2139/ssrn.17297095)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 - **Author**: Mariano Enrique Torres Ponce
@@ -179,7 +179,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5552760) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -191,7 +191,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5468846) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 *Property in Transition: SaaS and the new regime of digital access*
@@ -203,7 +203,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 - **Authors**: Mariano Enrique Torres Ponce
@@ -215,7 +215,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
@@ -228,7 +228,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 - **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
@@ -252,7 +252,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5613230) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5613230)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
 - **Author**: Mariano Enrique Torres Ponce
@@ -263,7 +263,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
 *From the Panopticon to the Datapoint: Governance and control by design*
@@ -275,7 +275,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Parallel version**: [SSRN URL](https://ssrn.com/abstract=5788802)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -287,7 +287,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5695082) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5695082)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 *IT Contracting in Argentina: Business continuity, source code escrow and infrastructure provision*
@@ -299,7 +299,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida  
 *Institutional Responsibility in Information Security: Documentary evidence and due diligence*
@@ -310,7 +310,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Abstract**: Analyzes how documentary clarity and traceability strengthen institutional responsibility and support accountability in information security.
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17735815)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
 
@@ -326,7 +326,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18528025)  
-- **Author / Group PDF**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Role**: Academic internal review and conceptual validation prior to publication.
 
 
