@@ -40,7 +40,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 
 ---
 ## Índice
-1. [Artículos Publicados (Revisados por pares)](#indice1)
+1. [Artículos Publicados (revisados por pares)](#indice1)
 2. [Publicaciones en Acceso Abierto con DOI](#indice2)
 3. [Publicaciones del grupo con revisión académica interna (sin autoría directa)](#indice2-5)
 4. [Distribución en eJournals de SSRN](#indice3)
@@ -55,7 +55,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 
 
 ---
-## Artículos Publicados (Revisados por pares)<a id="indice1"></a>
+## Artículos Publicados (revisados por pares)<a id="indice1"></a>
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design
 *Del Panóptico al Datapoint: Poder operativo y gobernanza por diseño*
