@@ -325,7 +325,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Idioma**: Inglés  
 - **Resumen**: Examina cómo la disrupción social sostenida ha reconfigurado la salud infantil a través de cambios en hábitos cotidianos, movimiento, regulación emocional y participación social, desde una perspectiva funcional e interdisciplinaria.  
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
-- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6434180) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6434180)  
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18528025)  
 - **PDF del Autor / Grupo**: [Descargar](Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Rol**: Revisión académica interna y validación conceptual previa a la publicación.
