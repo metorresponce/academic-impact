@@ -324,7 +324,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Language**: English  
 - **Abstract**: Examines how sustained social disruption has reshaped child health through changes in daily habits, movement patterns, emotional regulation, and social participation, adopting a functional and interdisciplinary perspective.  
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
-- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6198298) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6198298)  
+- **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6434180) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6434180)  
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18528025)  
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Role**: Academic internal review and conceptual validation prior to publication.
