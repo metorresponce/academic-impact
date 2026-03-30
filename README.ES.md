@@ -243,8 +243,8 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **PDF del Autor / Grupo**: [Descargar](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
-### SRE in the Law of Technological Risk: Reliability and responsibility  
-*SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
+### SRE, Cybersecurity and the Law of Technological Risk: Reliability, security and responsibility  
+*SRE, Ciberseguridad y Derecho del Riesgo Tecnológico: Confiabilidad, seguridad y responsabilidad*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-02-07
 - **Licencia**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
@@ -253,8 +253,8 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5613230) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
-- **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
-- **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Cybersecurity-Law-Technological-Risk_Explanatory-Video.mp4)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_SRE-Cybersecurity-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
