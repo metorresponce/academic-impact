@@ -242,7 +242,7 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
-### SRE in the Law of Technological Risk: Reliability and responsibility
+### SRE, Cybersecurity and the Law of Technological Risk: Reliability, security and responsibility
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2023-02-07
 - **License**: CC BY-NC-ND 4.0 – © 2023 Mariano Enrique Torres Ponce
@@ -251,8 +251,8 @@ The publication strategy prioritizes consolidated academic repositories and the 
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5613230) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5613230)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
-- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
-- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Cybersecurity-Law-Technological-Risk_Explanatory-Video.mp4)
+- **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_SRE-Cybersecurity-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
 - **Author**: Mariano Enrique Torres Ponce
