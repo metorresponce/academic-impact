@@ -24,10 +24,6 @@ A curated landing page with extended abstracts and bibliographic metadata is als
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-###  Academic visibility
-
-Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
-
 ---
 ### Interdisciplinary Production Framework
 
