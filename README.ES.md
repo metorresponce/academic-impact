@@ -24,10 +24,6 @@ Una página curada con resúmenes ampliados y metadatos bibliográficos también
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-### Visibilidad académica
-
-Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
-
 ---
 ### Marco de producción interdisciplinaria
 
