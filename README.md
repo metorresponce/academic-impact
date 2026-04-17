@@ -1,38 +1,38 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
-# Academic Research Archive and Curated Impact Repository
 
-This repository maintains a curated archive of my academic works and their verified impact across books, journals, theses, institutional repositories and policy-relevant publications. It provides persistent access to author copies, open-access versions, citation evidence and supporting materials linked to each research output, forming a research infrastructure for traceability, preservation and scholarly reuse.
+# Academic Research Archive
 
-**Inclusion criteria**: this repository lists non-Google Scholar citations with documentary evidence such as scanned book pages, journal PDFs, thesis extracts and repository records.  
+This repository brings together my academic publications, open-access versions, citation evidence, and supporting materials related to each work. It is intended as a structured archive for preservation, traceability, and easier scholarly access.
+
+**Inclusion criteria**: this repository lists non-Google Scholar citations supported by documentary evidence, such as scanned book pages, journal PDFs, thesis extracts, and repository records.  
 Index-verified citations appear exclusively in my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-###  Repository structure
+### Repository structure
 
 `papers/` — Author copies of manuscripts and working papers  
-`open-access/` — Published open access versions from institutional and public repositories  
+`open-access/` — Published open-access versions from institutional and public repositories  
 `citations/` — Documentary evidence of citations and references  
 `demos/` — Interactive materials and technical prototypes linked to specific papers  
 
+### External academic presence
 
-###  External academic presence
-
-This repository complements my professional GitHub portfolio  ([metorresponce](https://github.com/metorresponce)), which focuses on DevOps, Cloud Engineering and production systems, by providing the academic and editorial infrastructure that supports my research, publication and review activities.
+This repository complements my professional GitHub profile ([metorresponce](https://github.com/metorresponce)), which focuses on technology risk, applied cybersecurity, operational resilience, and technical infrastructure.
 
 A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
-###  Author identifier
+### Author identifier
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 ---
-### Interdisciplinary Production Framework
 
-Part of the works archived and referenced in this repository are developed within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law (GICTyD)** *Grupo Interdisciplinario de Clínica, Tecnología y Derecho*, a collaborative academic initiative bringing together professionals from technology law, medicine, physiotherapy, psychology, audiovisual production, software engineering, and technological infrastructure.
+### Interdisciplinary Research Framework
 
-The group develops and disseminates its work through formal academic documents in PDF format, structured according to academic standards and published in open access repositories.  
-These infrastructures provide persistent identifiers (DOI, URI), long-term preservation mechanisms, and bibliographic traceability, enabling citation, verification, and indexing of the contents in recognized academic systems such as Google Scholar.
+Part of the works archived and referenced in this repository were developed within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law (GICTyD)** — *Grupo Interdisciplinario de Clínica, Tecnología y Derecho* — a collaborative academic initiative bringing together professionals from technology law, medicine, physiotherapy, psychology, audiovisual production, software engineering, and technological infrastructure.
 
-The publication strategy prioritizes consolidated academic repositories and the use of open sources, over ephemeral dissemination formats or platforms not oriented toward scientific preservation.
+The group develops and disseminates its work through formal academic documents published in open-access repositories and structured according to academic standards. These infrastructures provide persistent identifiers (DOI, URI), long-term preservation, and bibliographic traceability, making the contents easier to verify, cite, and index in recognized academic systems such as Google Scholar.
+
+The publication strategy prioritizes established academic repositories and preservation-oriented dissemination channels over more ephemeral platforms not designed for long-term scholarly access.
 
 ---
 ## Table of Contents
