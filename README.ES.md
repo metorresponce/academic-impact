@@ -1,38 +1,38 @@
-> Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
-# Archivo de investigación académica y repositorio de impacto curado
+> Idiomas disponibles / Available languages: [*Español*](README.ES.md) / [*English*](README.md)
 
-Este repositorio conserva un archivo curado de mis trabajos académicos y de su impacto documentado en libros, revistas científicas, tesis, repositorios institucionales y publicaciones especializadas. Proporciona acceso persistente a copias de autor, versiones en acceso abierto, evidencia de citación y materiales de apoyo vinculados a cada producción, funcionando como una infraestructura de trazabilidad, preservación y reutilización académica.
+# Archivo Académico de Investigación
 
-**Criterio de inclusión:** se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de evidencia verificable (páginas de libros, PDFs de revistas, extractos de tesis o registros de repositorios).
-Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [Google Scholar](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
+Este repositorio reúne mis publicaciones académicas, versiones en acceso abierto, evidencias documentales de citación y materiales de apoyo vinculados a cada trabajo. Está pensado como un archivo estructurado para facilitar preservación, trazabilidad y acceso académico.
+
+**Criterio de inclusión**: este repositorio reúne citas no registradas en Google Scholar pero respaldadas con evidencia documental, como páginas escaneadas de libros, PDFs de revistas, fragmentos de tesis y registros de repositorios.  
+Las citas verificadas por índices aparecen exclusivamente en mi [perfil de Google Scholar](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
 ### Estructura del repositorio
 
-`papers/` — Copias del autor de manuscritos y working papers  
+`papers/` — Copias de autor de manuscritos y working papers  
 `open-access/` — Versiones publicadas en acceso abierto desde repositorios institucionales y públicos  
 `citations/` — Evidencia documental de citas y referencias  
-`demos/` — Material interactivo y prototipos técnicos vinculados a trabajos específicos  
-
+`demos/` — Materiales interactivos y prototipos técnicos vinculados a trabajos específicos  
 
 ### Presencia académica externa
 
-Este repositorio complementa mi portafolio profesional en GitHub  ([metorresponce](https://github.com/metorresponce)), orientado a DevOps, ingeniería cloud y sistemas de producción, proporcionando la infraestructura académica y editorial que sustenta mis actividades de investigación, publicación y revisión.
+Este repositorio complementa mi perfil profesional en GitHub ([metorresponce](https://github.com/metorresponce)), orientado a riesgo tecnológico, ciberseguridad aplicada, resiliencia operativa e infraestructura técnica.
 
-Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
+También se encuentra disponible una página curada con resúmenes extendidos y metadatos bibliográficos en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
-### Identificación del autor
+### Identificador de autor
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 ---
-### Marco de producción interdisciplinaria
 
-Parte de los trabajos archivados y referenciados en este repositorio se producen en el marco del **Grupo Interdisciplinario de Clínica, Tecnología y Derecho (GICTyD)**, un proyecto colaborativo integrado por un abogado especialista en tecnología, profesionales de la medicina y la kinesiología, una psicóloga, especialistas en producción audiovisual y profesionales de la ingeniería de software e infraestructura tecnológica.
+### Marco Interdisciplinario de Investigación
 
-El grupo desarrolla y difunde sus trabajos mediante documentos académicos formales en formato PDF, estructurados conforme a estándares académicos y publicados en repositorios de acceso abierto.  
-Estas infraestructuras proporcionan identificadores persistentes (DOI, URI), mecanismos de preservación a largo plazo y trazabilidad bibliográfica, permitiendo la citación, verificación e indexación de los contenidos en sistemas académicos como Google Scholar.
+Parte de los trabajos archivados y referenciados en este repositorio fueron desarrollados en el marco del **Grupo Interdisciplinario de Clínica, Tecnología y Derecho (GICTyD)**, una iniciativa académica colaborativa que reúne profesionales del derecho tecnológico, la medicina, la fisioterapia, la psicología, la producción audiovisual, la ingeniería de software y la infraestructura tecnológica.
 
-La estrategia de publicación prioriza repositorios académicos consolidados y el uso de fuentes abiertas, frente a formatos de divulgación efímera o plataformas no orientadas a la preservación científica.
+El grupo desarrolla y difunde su trabajo mediante documentos académicos formales, publicados en repositorios de acceso abierto y estructurados según estándares académicos. Estas infraestructuras proporcionan identificadores persistentes (DOI, URI), mecanismos de preservación a largo plazo y trazabilidad bibliográfica, facilitando la verificación, citación e indexación de los contenidos en sistemas académicos reconocidos como Google Scholar.
+
+La estrategia de publicación prioriza repositorios académicos consolidados y canales de difusión orientados a la preservación, por encima de plataformas más efímeras que no están pensadas para el acceso académico de largo plazo.
 
 ---
 ## Índice
