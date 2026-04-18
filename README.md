@@ -16,7 +16,7 @@ Index-verified citations appear exclusively in my [Google Scholar profile](https
 
 ### External academic presence
 
-This repository complements my professional GitHub profile ([metorresponce](https://github.com/metorresponce)), which focuses on technology risk, applied cybersecurity, operational resilience, and technical infrastructure.
+This repository complements my broader public and professional work, available at [metorresponce.com](https://metorresponce.com), as well as my professional GitHub profile ([metorresponce](https://github.com/metorresponce)), which focuses on technology risk, applied cybersecurity, operational resilience, and technical infrastructure.
 
 A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
