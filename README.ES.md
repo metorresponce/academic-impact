@@ -16,7 +16,7 @@ Las citas verificadas por índices aparecen exclusivamente en mi [perfil de Goog
 
 ### Presencia académica externa
 
-Este repositorio complementa mi perfil público en [www.metorresponce.com](https://metorresponce.com) y mi perfil profesional de GitHub ([metorresponce](https://github.com/metorresponce)), enfocado en riesgo tecnológico, ciberseguridad aplicada, resiliencia operativa e infraestructura técnica.
+Este repositorio complementa mi perfil público en [www.metorresponce.com](https://www.metorresponce.com) y mi perfil profesional de GitHub ([metorresponce](https://github.com/metorresponce)), enfocado en riesgo tecnológico, ciberseguridad aplicada, resiliencia operativa e infraestructura técnica.
 
 También se encuentra disponible una página académica curada con resúmenes ampliados y metadatos bibliográficos en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
