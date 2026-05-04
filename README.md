@@ -474,7 +474,7 @@ Documentary evidence of non-Scholar citations is maintained in this repository.
 
 
 ### Informática Forense: El camino de la evidencia digital (2020)
-- **Citations**: 2 (as of May 2025)
+- **Citations**: 2 (as of May 2026)
 - **Selected citations**:
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
