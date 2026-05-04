@@ -460,13 +460,13 @@ Se incluyen únicamente como referencia.
 La evidencia documental de citaciones no indexadas se mantiene en este repositorio.
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
-- **Citaciones**: 9 (hasta diciembre de 2025)
+- **Citaciones**: 12 (hasta mayo de 2026)
 - **Citaciones seleccionadas**:
   - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
   - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
 
 ### Informática Forense: El camino de la evidencia digital (2020)
-- **Citaciones**: 2 (hasta diciembre de 2025)
+- **Citaciones**: 2 (hasta mayo de 2026)
 - **Citaciones seleccionadas**:
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
