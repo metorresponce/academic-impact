@@ -467,7 +467,7 @@ They are provided for reference only.
 Documentary evidence of non-Scholar citations is maintained in this repository.
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
-- **Citations**: 12 (as of May 2025)
+- **Citations**: 12 (as of May 2026)
 - **Selected citations**:
   - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
   - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
@@ -479,6 +479,10 @@ Documentary evidence of non-Scholar citations is maintained in this repository.
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
 
+### Cloud-Native Resilience: DevOps and DORA in Financial Services (2025)
+- **Citations**: 1 (as of May 2026)
+- **Selected citation**:
+  - Crăciun, P.-C. (2026). *Adaptive Financial Infrastructure: A DevOps–Machine Learning Framework for Predictive Resource and Operational Optimization.* Systems, 14(5), 549. MDPI.
 
 ---
 
