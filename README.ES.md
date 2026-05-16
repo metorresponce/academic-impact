@@ -470,6 +470,12 @@ La evidencia documental de citaciones no indexadas se mantiene en este repositor
 - **Citaciones seleccionadas**:
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
+ 
+
+### Cloud-Native Resilience: DevOps and DORA in Financial Services (2025)
+- **Citaciones**: 1 (hasta mayo de 2026)
+- **Citaciones seleccionadas**:
+  - Crăciun, P.-C. (2026). *Adaptive Financial Infrastructure: A DevOps–Machine Learning Framework for Predictive Resource and Operational Optimization.* Systems, 14(5), 549. MDPI.
 
 ---
 ## Líneas de Investigación<a id="indice10"></a>
