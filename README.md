@@ -40,14 +40,15 @@ The publication strategy prioritizes established academic repositories and prese
 2. [Open Access Publications with DOI](#index2)
 3. [Group publications with academic internal review (no direct authorship)](#index2-5)
 4. [SSRN eJournal Distribution](#index3)
-5. [Book Chapters (as cited work)](#index4)
-6. [Academic Journals (as cited work)](#index5)
-7. [Theses, Student Papers & Institutional References (as cited work)](#index6)
-8. [Professional & Legal Media](#index7)
-9. [Press Mentions](#index8)
-10. [Google Scholar Citations](#index9)
-11. [Research Interests](#index10)
-12. [Notes](#index11)
+5. [External Academic Listings and Curated Scholarship Selections](#index3-5)
+6. [Book Chapters (as cited work)](#index4)
+7. [Academic Journals (as cited work)](#index5)
+8. [Theses, Student Papers & Institutional References (as cited work)](#index6)
+9. [Professional & Legal Media](#index7)
+10. [Press Mentions](#index8)
+11. [Google Scholar Citations](#index9)
+12. [Research Interests](#index10)
+13. [Notes](#index11)
 
 ---
 ## Published Papers (Peer-Reviewed)<a id="index1"></a>
@@ -209,6 +210,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
+- **External academic listing**: Included in the *Comparative Administrative Law Scholarship Corner*, February 2026 edition, disseminated through **Yale Journal on Regulation – Notice & Comment**. [Read online](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
@@ -336,6 +338,18 @@ A selection of my research outputs has been editorially distributed through cura
 My papers have been distributed or scheduled for distribution within multiple SSRN classification networks, including LSN, IRPN, ISN, CompSciRN, HEN, FEN and ERPN, covering areas such as digital governance, financial regulation, cybersecurity, health law, innovation policy and transnational legal studies.
 
 For complete and up-to-date distribution records, see the SSRN Author Page ID: [8104256](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8104256) / [8103297](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8103297)
+
+---
+## External Academic Listings and Curated Scholarship Selections<a id="index3-5"></a>
+
+### Comparative Administrative Law Scholarship Corner — February 2026
+- **Included work**: *The Thousand-Click Bureaucracy: The Erosion of Due Process in Digital Administration*
+- **Author**: Mariano Enrique Torres Ponce
+- **Type**: Curated academic scholarship listing
+- **Date**: February 2026
+- **Dissemination**: Yale Journal on Regulation – Notice & Comment
+- **Online publication**: [Read on Yale Journal on Regulation](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
+- **Note**: Inclusion in a curated academic listing of recent scholarship in comparative administrative law. This entry is recorded as evidence of external academic visibility and thematic relevance, not as a formal doctrinal citation or journal publication.
 
 ---
 
