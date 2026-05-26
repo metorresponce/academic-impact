@@ -40,14 +40,15 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 2. [Publicaciones en Acceso Abierto con DOI](#indice2)
 3. [Publicaciones del grupo con revisión académica interna (sin autoría directa)](#indice2-5)
 4. [Distribución en eJournals de SSRN](#indice3)
-5. [Capítulos de Libro (como obra citada)](#indice4)
-6. [Revistas Académicas (como obra citada)](#indice5)
-7. [Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)](#indice6)
-8. [Medios Jurídicos y Profesionales](#indice7)
-9. [Menciones en Prensa](#indice8)
-10. [Citaciones en Google Scholar](#indice9)
-11. [Líneas de Investigación](#indice10)
-12. [Nota Final](#indice11)
+5. [Listados académicos y selecciones bibliográficas](#indice3-5)
+6. [Capítulos de Libro (como obra citada)](#indice4)
+7. [Revistas Académicas (como obra citada)](#indice5)
+8. [Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)](#indice6)
+9. [Medios Jurídicos y Profesionales](#indice7)
+10. [Menciones en Prensa](#indice8)
+11. [Citaciones en Google Scholar](#indice9)
+12. [Líneas de Investigación](#indice10)
+13. [Nota Final](#indice11)
 
 
 ---
@@ -337,10 +338,24 @@ Los artículos han sido distribuidos o se encuentran programados para su distrib
 Para consultar los registros completos y actualizados de distribución editorial, véase la página de autor en SSRN ID: [8104256](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8104256) / [8103297](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8103297)
 
 ---
+
+## Listados académicos y selecciones bibliográficas<a id="indice3-5"></a>
+
+### Comparative Administrative Law Scholarship Corner — February 2026
+- **Obra incluida**: *The Thousand-Click Bureaucracy: The Erosion of Due Process in Digital Administration*
+- **Autor**: Mariano Enrique Torres Ponce
+- **Tipo**: Listado académico curado de novedades bibliográficas
+- **Fecha**: Febrero de 2026
+- **Difusión**: Yale Journal on Regulation – Notice & Comment
+- **Versión completa**: Comparative Administrative Law Scholarship Corner, February 2026
+- **Publicación online**: [Leer en Yale Journal on Regulation](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
+- **Nota**: Inclusión en un listado académico de trabajos recientes sobre derecho administrativo comparado. Se registra como evidencia de visibilidad académica externa, no como cita doctrinal formal ni como publicación en la revista.
+
+---
 ## Capítulos de libro (como obra citada)<a id="indice4"></a>
 
 ### Derecho y Nuevas Tecnologías
-- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
+- **Obra citada**: Derechos y Desafíos de la Inteligencia Artificial
 - **Autor / Director (compilación)**: Gonzalo Ana Dobratinich (dir.)
 - **Tipo**: Obra colectiva
 - **Editorial**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)
