@@ -342,15 +342,16 @@ Para consultar los registros completos y actualizados de distribución editorial
 
 ## Listados académicos y selecciones bibliográficas<a id="indice3-5"></a>
 
-### Comparative Administrative Law Scholarship Corner — February 2026
+### Comparative Administrative Law Scholarship Corner — febrero de 2026
+
 - **Obra incluida**: *The Thousand-Click Bureaucracy: The Erosion of Due Process in Digital Administration*
 - **Autor**: Mariano Enrique Torres Ponce
-- **Tipo**: Listado académico curado de novedades bibliográficas
-- **Fecha**: Febrero de 2026
+- **Tipo**: listado académico curado
+- **Fecha**: febrero de 2026
+- **Versión completa del listserv**: [Leer el PDF del Comparative Administrative Law Scholarship Corner](https://www.auloteca.com.br/wp-content/uploads/2026/02/Listserv-February-2026-2.pdf)
 - **Difusión**: Yale Journal on Regulation – Notice & Comment
-- **Versión completa**: Comparative Administrative Law Scholarship Corner, February 2026
 - **Publicación online**: [Leer en Yale Journal on Regulation](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
-- **Nota**: Inclusión en un listado académico de trabajos recientes sobre derecho administrativo comparado. Se registra como evidencia de visibilidad académica externa, no como cita doctrinal formal ni como publicación en la revista.
+- **Nota**: Inclusión en un listado académico curado de producción reciente en derecho administrativo comparado. La versión completa del listserv incluye los datos bibliográficos y el resumen del trabajo, mientras que la publicación de Yale Journal on Regulation – Notice & Comment reproduce el listado mensual con enlace directo al preprint en SSRN. Esta entrada se registra como evidencia de visibilidad académica externa y relevancia temática, no como cita doctrinal formal ni como publicación en revista.
 
 ---
 ## Capítulos de libro (como obra citada)<a id="indice4"></a>
