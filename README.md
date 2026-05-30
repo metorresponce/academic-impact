@@ -343,13 +343,15 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 ## External Academic Listings and Curated Scholarship Selections<a id="index3-5"></a>
 
 ### Comparative Administrative Law Scholarship Corner — February 2026
+
 - **Included work**: *The Thousand-Click Bureaucracy: The Erosion of Due Process in Digital Administration*
 - **Author**: Mariano Enrique Torres Ponce
 - **Type**: Curated academic scholarship listing
 - **Date**: February 2026
+- **Full listserv version**: [Read the Comparative Administrative Law Scholarship Corner PDF](https://www.auloteca.com.br/wp-content/uploads/2026/02/Listserv-February-2026-2.pdf)
 - **Dissemination**: Yale Journal on Regulation – Notice & Comment
 - **Online publication**: [Read on Yale Journal on Regulation](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
-- **Note**: Inclusion in a curated academic listing of recent scholarship in comparative administrative law. This entry is recorded as evidence of external academic visibility and thematic relevance, not as a formal doctrinal citation or journal publication.
+- **Note**: Inclusion in a curated academic listing of recent scholarship in comparative administrative law. The full listserv version includes the work’s bibliographic details and abstract, while the Yale Journal on Regulation – Notice & Comment post republishes the monthly list with a direct link to the SSRN preprint. This entry is recorded as evidence of external academic visibility and thematic relevance, not as a formal doctrinal citation or journal publication.
 
 ---
 
