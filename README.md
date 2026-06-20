@@ -350,11 +350,10 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Type**: Curated academic scholarship listing
 - **Date**: February 2026
 - **Repository record**: [See repository note](./curation/external-academic-listings/2026-02-comparative-administrative-law-scholarship-corner.md)
+- **Archived PDF copy**: [View archived Yale Journal on Regulation listing](./curation/external-academic-listings/yalejreg-comparative-administrative-law-new-scholarship-corner-february-2026.pdf)
 - **Full listserv version**: [Read the Comparative Administrative Law Scholarship Corner PDF](https://www.auloteca.com.br/wp-content/uploads/2026/02/Listserv-February-2026-2.pdf)
 - **Online academic listing**: [Yale Journal on Regulation – Notice & Comment](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
-- **Note**: Inclusion in a curated academic listing of recent scholarship in comparative administrative law. This entry is recorded as evidence of external academic visibility and thematic relevance, not as a journal publication, peer-review acceptance, judicial citation, or formal legal citation.
-
-
+- **Note**: This entry records external academic visibility in a curated scholarship listing. It should not be understood as a journal publication, peer-review acceptance, judicial citation, or formal legal citation.
 ---
 
 ## Book Chapters (as cited work)<a id="index4"></a>
