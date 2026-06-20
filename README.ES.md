@@ -348,10 +348,11 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Autor**: Mariano Enrique Torres Ponce
 - **Tipo**: listado académico curado
 - **Fecha**: febrero de 2026
+- **Registro en el repositorio**: [Ver nota del repositorio](./curation/external-academic-listings/2026-02-comparative-administrative-law-scholarship-corner.md)
+- **Copia PDF archivada**: [Ver copia archivada del listado de Yale Journal on Regulation](./curation/external-academic-listings/yalejreg-comparative-administrative-law-new-scholarship-corner-february-2026.pdf)
 - **Versión completa del listserv**: [Leer el PDF del Comparative Administrative Law Scholarship Corner](https://www.auloteca.com.br/wp-content/uploads/2026/02/Listserv-February-2026-2.pdf)
-- **Difusión**: Yale Journal on Regulation – Notice & Comment
-- **Publicación online**: [Leer en Yale Journal on Regulation](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
-- **Nota**: Inclusión en un listado académico curado de producción reciente en derecho administrativo comparado. La versión completa del listserv incluye los datos bibliográficos y el resumen del trabajo, mientras que la publicación de Yale Journal on Regulation – Notice & Comment reproduce el listado mensual con enlace directo al preprint en SSRN. Esta entrada se registra como evidencia de visibilidad académica externa y relevancia temática, no como cita doctrinal formal ni como publicación en revista.
+- **Listado académico online**: [Yale Journal on Regulation – Notice & Comment](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
+- **Nota**: Esta entrada registra visibilidad académica externa en un listado académico curado. No debe entenderse como publicación en revista, aceptación por revisión de pares, cita judicial ni cita jurídica formal.
 
 ---
 ## Capítulos de libro (como obra citada)<a id="indice4"></a>
