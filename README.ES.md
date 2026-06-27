@@ -478,7 +478,7 @@ Se incluyen únicamente como referencia.
 La evidencia documental de citaciones no indexadas se mantiene en este repositorio.
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
-- **Citaciones**: 12 (hasta mayo de 2026)
+- **Citaciones**: 10 (hasta mayo de 2026)
 - **Citaciones seleccionadas**:
   - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
   - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
