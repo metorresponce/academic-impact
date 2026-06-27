@@ -393,6 +393,21 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Citado como**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
 - **País**: Perú
 
+### From Code to Strategy: A Senior Technical Manager’s Journey in Cloud Native Banking Systems
+
+* **Obra citada**: Cloud-Native Resilience: DevOps and DORA in Financial Services
+* **Autor**: Balkishan Arugula
+* **Revista**: International Journal of Computer Science and Engineering Innovations
+* **Publicado en**: Actas del congreso ICCSEMTI-2026, pp. 24–29
+* **Fecha de publicación**: 24/02/2026
+* **DOI**: 10.64137/3107-9458/ICCSEMTI26-105
+* **Idioma**: Inglés
+* **Enlace oficial**: [International Journal SSRP](https://internationaljournalssrp.org/index.php/ijcsei/article/view/215/145)
+* **Evidencia de citación (extracto PDF)**: [Descargar](citations/2026-from-code-to-strategy-extract.pdf)
+* **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025).*
+* **País**: Internacional
+
+
 ---
 
 ## Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)<a id="indice6"></a>
