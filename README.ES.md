@@ -138,7 +138,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Licencia**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
 - **Idioma**: Inglés
 - **Resumen**: La IA media la detección del movimiento humano en medios audiovisuales, reconfigurando gesto, significado y responsabilidad legal.
-- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
+- **DOI**: [10.5281/zenodo.18463145](https://doi.org/10.5281/zenodo.18463145)
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **PDF del Autor / Grupo**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
