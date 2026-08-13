@@ -5,7 +5,7 @@ const LOG_KEY = "audit_log_jsonl_v1";
 
 async function sha256Hex(obj) {
   const enc = new TextEncoder();
-  const bytes = enc.encode(JSON.stringify(obj, Object.keys(obj).sort(), 0));
+  const bytes = enc.encode(JSON.stringify(obj));
   const digest = await crypto.subtle.digest("SHA-256", bytes);
   const hashArray = Array.from(new Uint8Array(digest));
   return hashArray.map(b => b.toString(16).padStart(2, "0")).join("");
