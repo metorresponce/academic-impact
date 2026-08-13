@@ -138,7 +138,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **License**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres & Sandra Susana Arroyo Giuliani
 - **Language**: English
 - **Abstract**: AI mediates human movement detection in audiovisual media, reshaping gesture, meaning, and legal responsibility.
-- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.18463145)
+- **DOI**: [10.5281/zenodo.18463145](https://doi.org/10.5281/zenodo.18463145)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
