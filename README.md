@@ -416,6 +416,19 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 
 ## Theses, Student Papers & Institutional References (as cited work)<a id="index6"></a>
 
+### Analyse des Architectures Distribuées des Banques Numériques : Conteneurisation, Orchestration (Kubernetes), Résilience et Sécurité
+- Cited work: Cloud-Native Resilience: DevOps and DORA in Financial Services
+- Authors: DOUNTIO TCHIOFO David Duclair; DJOUYAGUENG Sade Cedric; KAFACK WAMBA Kerol
+- Institution: Université de Dschang – Faculté des Sciences – Département de Mathématiques et Informatique
+- Program: Master 2 Informatique – Réseaux et Services Distribués
+- Type: Master 2 Academic Report / Scientific and Technological Review Report
+- Academic year: 2025/2026
+- Language: French
+- Citation evidence (PDF extract): [Download](citations/2026-university-dschang-cloud-native-banking-report-extract.pdf)
+- Cited as: Mariano Enrique Torres Ponce. “Cloud-native resilience: DevOps and DORA in financial services.” Technical report, SSRN, 2025. Working Paper.
+- Citation context: The work cites Torres Ponce [6] throughout its literature review and experimental evaluation, including software supply-chain security, chaos engineering, observability, the Regulatory-Technical Translation Framework (RTTF), MTTR benchmarking, and DORA compliance metrics.
+- Country: Cameroon
+
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Juan Andrés Meza Sánchez
