@@ -424,9 +424,10 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - Type: Master 2 Academic Report / Scientific and Technological Review Report
 - Academic year: 2025/2026
 - Language: French
-- Citation evidence (PDF extract): [Download](citations/2026-university-dschang-cloud-native-banking-report-extract.pdf)
+- Publicly available copy: [Scribd](https://es.scribd.com/document/1019731680/Rapport-Veille-Scientifique)
+- Preserved citation evidence: [PDF extract](citations/2026-university-dschang-cloud-native-banking-report-extract.pdf)
 - Cited as: Mariano Enrique Torres Ponce. “Cloud-native resilience: DevOps and DORA in financial services.” Technical report, SSRN, 2025. Working Paper.
-- Citation context: The work cites Torres Ponce [6] throughout its literature review and experimental evaluation, including software supply-chain security, chaos engineering, observability, the Regulatory-Technical Translation Framework (RTTF), MTTR benchmarking, and DORA compliance metrics.
+- Citation context: The report cites Torres Ponce [6] throughout its literature review and experimental evaluation, including software supply-chain security with SLSA and in-toto, Kubernetes security, chaos engineering, observability, the Regulatory-Technical Translation Framework (RTTF), MTTR benchmarking, and DORA compliance metrics. The cited work is also used to interpret experimental results and as a reference framework for evaluating SBOM coverage, automated CI/CD scanning, and chaos-engineering test completion.
 - Country: Cameroon
 
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
