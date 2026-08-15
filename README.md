@@ -418,7 +418,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 
 ### Analyse des Architectures Distribuées des Banques Numériques : Conteneurisation, Orchestration (Kubernetes), Résilience et Sécurité
 - Cited work: Cloud-Native Resilience: DevOps and DORA in Financial Services
-- Authors: DOUNTIO TCHIOFO David Duclair; DJOUYAGUENG Sade Cedric; KAFACK WAMBA Kerol
+- Authors: David Dountio Tchiofo; Cedric Djouyagueng Sade; Kerol Kafack Wamba
 - Institution: Université de Dschang – Faculté des Sciences – Département de Mathématiques et Informatique
 - Program: Master 2 Informatique – Réseaux et Services Distribués
 - Type: Master 2 Academic Report / Scientific and Technological Review Report
