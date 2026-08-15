@@ -404,7 +404,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 * **Idioma**: Inglés
 * **Enlace oficial**: [International Journal SSRP](https://internationaljournalssrp.org/index.php/ijcsei/article/view/215/145)
 * **Evidencia de citación (extracto PDF)**: [Descargar](citations/2026-from-code-to-strategy-extract.pdf)
-* **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025).*
+* **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025)*.
 * **País**: Internacional
 
 
