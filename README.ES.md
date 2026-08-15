@@ -210,9 +210,9 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Licencia**: CC BY-NC-ND 4.0 – © 2024 Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Análisis de cómo la burocracia digital traslada las cargas procedimentales a los ciudadanos, erosionando las garantías del debido proceso a través de la mediación tecnológica y la gobernanza basada en plataformas.
-- **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281) [(Ver distribución de eJournal)](#indice3)
-- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782)
-- - **Listado académico externo**: Incluido en el *Comparative Administrative Law Scholarship Corner*, edición febrero de 2026, difundido en **Yale Journal on Regulation – Notice & Comment**. [Leer online](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/)
+- **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
+- **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(Ver distribución de eJournal)](#indice3)
+- **Listado académico externo**: Incluido en el *Comparative Administrative Law Scholarship Corner*, edición de febrero de 2026, difundido a través de **Yale Journal on Regulation – Notice & Comment**. [Leer online](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/) / [PDF archivado](curation/external-academic-listings/yalejreg-comparative-administrative-law-new-scholarship-corner-february-2026.pdf)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
