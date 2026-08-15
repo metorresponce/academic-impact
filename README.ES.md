@@ -412,6 +412,21 @@ Para consultar los registros completos y actualizados de distribución editorial
 
 ## Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)<a id="indice6"></a>
 
+### Analyse des Architectures Distribuées des Banques Numériques : Conteneurisation, Orchestration (Kubernetes), Résilience et Sécurité
+- **Obra citada**: Cloud-Native Resilience: DevOps and DORA in Financial Services
+- **Autores**: DOUNTIO TCHIOFO David Duclair; DJOUYAGUENG Sade Cedric; KAFACK WAMBA Kerol
+- **Institución**: Université de Dschang – Faculté des Sciences – Département de Mathématiques et Informatique
+- **Programa**: Master 2 Informatique – Réseaux et Services Distribués
+- **Tipo**: Trabajo académico de Master 2 / Informe de vigilancia científica y tecnológica
+- **Curso académico**: 2025/2026
+- **Idioma**: Francés
+- **Copia pública disponible**: [Scribd](https://es.scribd.com/document/1019731680/Rapport-Veille-Scientifique)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2026-university-dschang-cloud-native-banking-report-extract.pdf)
+- **Citado como (según el documento)**: *Mariano Enrique Torres Ponce. Cloud-native resilience: Devops and dora in financial services. Technical report, SSRN, 2025. Working Paper. https://ssrn.com/abstract=5497878*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2025). Cloud-Native Resilience: DevOps and DORA in Financial Services. SSRN Working Paper. https://ssrn.com/abstract=5497878*
+- **Contexto de la citación**: El trabajo cita a Torres Ponce [6] de forma reiterada en la revisión de la literatura y en la evaluación experimental, incluyendo seguridad de la cadena de suministro de software mediante SLSA e in-toto, seguridad en Kubernetes, ingeniería del caos, observabilidad, el Regulatory-Technical Translation Framework (RTTF), comparación de métricas MTTR y métricas de cumplimiento de DORA. La obra citada también se utiliza para interpretar resultados experimentales y como marco de referencia para evaluar la cobertura SBOM, el escaneo automatizado en CI/CD y la ejecución de pruebas de ingeniería del caos.
+- **País**: Camerún
+
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: Juan Andrés Meza Sánchez
