@@ -440,7 +440,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Official listing**: [Repositorio UNAM de la Dirección General de Bibliotecas (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
 - **Citation evidence (PDF extract)**: [Download](citations/2023-ia-ddhh-extract.pdf)
 - **Cited as (as shown on platform)**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*
-- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).*
 - **Country**: Mexico
 
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
@@ -453,7 +453,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/handle/915/25652)
 - **Citation evidence (PDF extract)**: [Download](citations/2021-responsabilidad-civil-extract.pdf)
 - **Cited as (as shown on platform)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*
-- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).*
 - **Country**: Spain
 
 ### What Is The Ethical Use Of AI In Healthcare
@@ -484,7 +484,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Official listing**: [Read online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
 - **Note**: Professional adaptation of the undergraduate thesis *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL)  
 - **Cited as (as shown on platform)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
-- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).*
 - **Country**: Spain
 
 ---
@@ -512,22 +512,28 @@ They are provided for reference only.
 Documentary evidence of non-Scholar citations is maintained in this repository.
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
-- **Citations**: 10 (as of May 2026)
+- **Citations**: 11 (as of May 2026)
 - **Selected citations**:
   - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
   - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
 
 
 ### Informática Forense: El camino de la evidencia digital (2020)
-- **Citations**: 2 (as of May 2026)
+- **Citations**: 2 (as of Aug 2026)
 - **Selected citations**:
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
 
 ### Cloud-Native Resilience: DevOps and DORA in Financial Services (2025)
-- **Citations**: 1 (as of May 2026)
+- **Citations**: 2 (as of Aug 2026)
 - **Selected citation**:
   - Crăciun, P.-C. (2026). *Adaptive Financial Infrastructure: A DevOps–Machine Learning Framework for Predictive Resource and Operational Optimization.* Systems, 14(5), 549. MDPI.
+  - Arugula, B. (2026). *From Code to Strategy: A Senior Technical Manager's Journey in Cloud Native Banking Systems.* International Journal of Computer Science and Engineering Innovations (ICCSEMTI-2026).
+
+### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter (2023)
+- **Citations**: 1 (as of Aug 2026)
+- **Selected citation**:
+  - Palacio, M.V. (2025). *Addiction Beyond Autobiographical Memory: Implicit Learning, Craving, Habit, and Psychosocial Continuity After Autobiographical Memory Loss* SSRN 7149598.
 
 ---
 
