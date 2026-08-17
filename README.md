@@ -212,7 +212,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
 - **External academic listing**: Included in the *Comparative Administrative Law Scholarship Corner*, February 2026 edition, disseminated through **Yale Journal on Regulation – Notice & Comment**. [Read online](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/) / [Archived PDF](curation/external-academic-listings/yalejreg-comparative-administrative-law-new-scholarship-corner-february-2026.pdf)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
-- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://youtu.be/eyGNmtv9lEM)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 
