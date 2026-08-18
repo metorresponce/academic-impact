@@ -214,7 +214,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5895782) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5895782) [(Ver distribución de eJournal)](#indice3)
 - **Listado académico externo**: Incluido en el *Comparative Administrative Law Scholarship Corner*, edición de febrero de 2026, difundido a través de **Yale Journal on Regulation – Notice & Comment**. [Leer online](https://www.yalejreg.com/nc/comparative-administrative-law-new-scholarship-corner-february-2026/) / [PDF archivado](curation/external-academic-listings/yalejreg-comparative-administrative-law-new-scholarship-corner-february-2026.pdf)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
-- **Video complementario**: [Ver en YouTube](https://youtu.be/eyGNmtv9lEM) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
+- **Video complementario**: [Ver en YouTube](https://youtu.be/kmcBfIewVN4) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
