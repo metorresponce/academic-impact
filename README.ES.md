@@ -125,7 +125,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
-- **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
+- **Video complementario**: [Ver en YouTube](https://youtu.be/-ZJk3SwtEu0) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
