@@ -152,7 +152,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5497878) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
-- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
+- **Supplementary video**: [Watch on YouTube](https://youtu.be/oBbaKEvnpPA) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
