@@ -58,6 +58,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Universitat Oberta de Catalunya (UOC)
 - **Published in**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
+- **ISSN**: 1699-8154
 - **Date**: 2026-11
 - **Language**: Spanish
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
