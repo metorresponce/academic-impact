@@ -58,6 +58,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Autor**: Mariano Enrique Torres Ponce
 - **Editorial**: Universitat Oberta de Catalunya (UOC)
 - **Revista**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
+- **ISSN**: 1699-8154
 - **Fecha**: 2026-11
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los registros técnicos generados con fines operativos, y no probatorios, transforman la prueba digital y afectan la trazabilidad, las asimetrías técnicas, el debido proceso y el control institucional en entornos automatizados.
