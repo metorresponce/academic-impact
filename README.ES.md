@@ -54,6 +54,15 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 ---
 ## Artículos Publicados (revisados por pares)<a id="indice1"></a>
 
+### Evidencia que no fue producida para probar: Registros técnicos, automatización y límites de la prueba digital
+- **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Universitat Oberta de Catalunya (UOC)
+- **Revista**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
+- **Fecha**: 2026-11
+- **Idioma**: Español
+- **Resumen**: Analiza cómo los registros técnicos generados con fines operativos, y no probatorios, transforman la prueba digital y afectan la trazabilidad, las asimetrías técnicas, el debido proceso y el control institucional en entornos automatizados.
+- **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
+
 ### From the Panopticon to the Datapoint: Operational power and governance by design
 *Del Panóptico al Datapoint: Poder operativo y gobernanza por diseño*
 - **Autor**: Mariano Enrique Torres Ponce
