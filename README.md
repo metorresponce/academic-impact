@@ -53,6 +53,16 @@ The publication strategy prioritizes established academic repositories and prese
 ---
 ## Published Papers (Peer-Reviewed)<a id="index1"></a>
 
+### Evidencia que no fue Producida para Probar: Registros técnicos, automatización y límites de la prueba digital
+*Evidence Not Produced for Proof: Technical Records, Automation, and the Limits of Digital Evidence*
+- **Author**: Mariano Enrique Torres Ponce
+- **Publisher**: Universitat Oberta de Catalunya (UOC)
+- **Published in**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
+- **Date**: 2026-11
+- **Language**: Spanish
+- **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
+- **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
+
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)
