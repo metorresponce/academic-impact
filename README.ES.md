@@ -277,7 +277,6 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
-*From the Panopticon to the Datapoint: Governance and control by design*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-03-10
 - **Licencia**: CC BY-NC-ND 4.0 – © 2022 Mariano Enrique Torres Ponce
