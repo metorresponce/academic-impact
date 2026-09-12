@@ -382,6 +382,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: José Heriberto García Peña
+- **Editorial**: Fundación de Cultura Universitaria
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
 - **ISSN**: 2530-4496
 - **Idioma**: Español
