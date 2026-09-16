@@ -404,18 +404,17 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **País**: Perú
 
 ### From Code to Strategy: A Senior Technical Manager’s Journey in Cloud Native Banking Systems
-
-* **Obra citada**: Cloud-Native Resilience: DevOps and DORA in Financial Services
-* **Autor**: Balkishan Arugula
-* **Revista**: International Journal of Computer Science and Engineering Innovations
-* **Publicado en**: Actas del congreso ICCSEMTI-2026, pp. 24–29
-* **Fecha de publicación**: 24/02/2026
-* **DOI**: 10.64137/3107-9458/ICCSEMTI26-105
-* **Idioma**: Inglés
-* **Enlace oficial**: [International Journal SSRP](https://internationaljournalssrp.org/index.php/ijcsei/article/view/215/145)
-* **Evidencia de citación (extracto PDF)**: [Descargar](citations/2026-from-code-to-strategy-extract.pdf)
-* **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025)*.
-* **País**: Internacional
+- **Obra citada**: Cloud-Native Resilience: DevOps and DORA in Financial Services
+- **Autor**: Balkishan Arugula
+- **Revista**: International Journal of Computer Science and Engineering Innovations
+- **Publicado en**: Actas del congreso ICCSEMTI-2026, pp. 24–29
+- **Fecha de publicación**: 24/02/2026
+- **DOI**: 10.64137/3107-9458/ICCSEMTI26-105
+- **Idioma**: Inglés
+- **Enlace oficial**: [International Journal SSRP](https://internationaljournalssrp.org/index.php/ijcsei/article/view/215/145)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2026-from-code-to-strategy-extract.pdf)
+- **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025)*.
+- **País**: Internacional
 
 
 ---
@@ -436,6 +435,20 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2025). Cloud-Native Resilience: DevOps and DORA in Financial Services. SSRN Working Paper. https://ssrn.com/abstract=5497878*
 - **Contexto de la citación**: El trabajo cita a Torres Ponce [6] de forma reiterada en la revisión de la literatura y en la evaluación experimental, incluyendo seguridad de la cadena de suministro de software mediante SLSA e in-toto, seguridad en Kubernetes, ingeniería del caos, observabilidad, el Regulatory-Technical Translation Framework (RTTF), comparación de métricas MTTR y métricas de cumplimiento de DORA. La obra citada también se utiliza para interpretar resultados experimentales y como marco de referencia para evaluar la cobertura SBOM, el escaneo automatizado en CI/CD y la ejecución de pruebas de ingeniería del caos.
 - **País**: Camerún
+
+### Inteligencia Artificial y Derecho: Incidencia en los Derechos Humanos
+- Obra citada: Derechos y Desafíos de la Inteligencia Artificial
+- Autor: Juan Carlos Almache Barreiro
+- Institución: Universidad de Córdoba – Programa de Doctorado en Ciencias Jurídicas y Sociales
+- Tipo: Tesis doctoral
+- Fecha: 2025
+- Idioma: Español
+- Publicación oficial: [Universidad de Córdoba – Repositorio Institucional Helvia](https://helvia.uco.es/bitstream/handle/10396/32648/2025000003055.pdf?sequence=1)
+- Evidencia de citación (extracto PDF): [Descargar](citations/2025-almache-ia-derecho-ddhh-extract.pdf)
+- Citado como (según el documento): Torres, M. (2019). Derechos y desafíos de la Inteligencia Artificial. Buenos Aires: Ciencia y Técnica Administrativa Informes Científicos y Técnicos.
+- Cita correcta (recomendada): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). [https://cyta.com.ar/bookia/bookia.php?id=1](https://cyta.com.ar/bookia/bookia.php?id=1)
+- Contexto de la citación: La tesis utiliza de forma reiterada a Torres (2019) a lo largo de su análisis sobre armas autónomas, clasificación de sistemas de inteligencia artificial y robots, responsabilidad civil, ética de la IA, regulación tecnológica e impacto de la automatización sobre el empleo. Asimismo, incluye una tabla elaborada expresamente a partir de Torres (2019).
+- País: España
 
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Obra citada**: Derechos y Desafíos de la inteligencia artificial
