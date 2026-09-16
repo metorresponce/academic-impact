@@ -441,6 +441,19 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - Citation context: The report cites Torres Ponce [6] throughout its literature review and experimental evaluation, including software supply-chain security with SLSA and in-toto, Kubernetes security, chaos engineering, observability, the Regulatory-Technical Translation Framework (RTTF), MTTR benchmarking, and DORA compliance metrics. The cited work is also used to interpret experimental results and as a reference framework for evaluating SBOM coverage, automated CI/CD scanning, and chaos-engineering test completion.
 - Country: Cameroon
 
+### Inteligencia Artificial y Derecho: Incidencia en los Derechos Humanos
+* Cited work: Derechos y Desafíos de la Inteligencia Artificial
+* Author: Juan Carlos Almache Barreiro
+* Institution: Universidad de Córdoba – Programa de Doctorado en Ciencias Sociales y Jurídicas
+* Type: Doctoral Thesis
+* Date: 2025
+* Language: Spanish
+* Official listing: Universidad de Córdoba – Helvia Institutional Repository(https://helvia.uco.es/bitstream/handle/10396/32648/2025000003055.pdf?sequence=1)
+* Cited as: Torres, M. (2019). Derechos y desafíos de la Inteligencia Artificial. Buenos Aires: Ciencia y Técnica Administrativa Informes Científicos y Técnicos.
+* Correct citation (recommended): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).
+* Citation context: The thesis relies repeatedly on Torres (2019) across its analysis of autonomous weapons, classifications of AI and robots, civil responsibility, AI ethics, technological regulation and employment impacts. It also includes a table explicitly prepared from Torres (2019).
+* Country: Spain
+
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Juan Andrés Meza Sánchez
