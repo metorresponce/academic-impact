@@ -463,6 +463,20 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: México
 
+### Sesgos en la aplicación de IA en el proceso de Selección de Personal
+- Obra citada: Derechos y Desafíos de la Inteligencia Artificial
+- Autora: Yanina Riggio
+- Institución: Universidad de San Andrés – Escuela de Administración y Negocios
+- Tipo: Tesis de maestría
+- Fecha: 2022
+- Idioma: Español
+- Publicación oficial: [Universidad de San Andrés – Repositorio Institucional](https://dspaceapi.live.udesa.edu.ar/server/api/core/bitstreams/495d9187-6099-43ab-9ac7-fb6f018fc5e5/content)
+- Evidencia de citación (extracto PDF): [Descargar](citations/2022-riggio-ia-seleccion-personal-extract.pdf)
+- Citado como (según el documento): Torres, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial. Universidad de Buenos Aires.
+- Cita correcta (recomendada): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).
+- Contexto de la citación: La tesis cita a Torres (2019) dentro de su marco conceptual para explicar los métodos predominantes de aprendizaje en inteligencia artificial, específicamente machine learning y deep learning. La obra también se incluye en la bibliografía final.
+- País: Argentina
+
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
 - **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: María Patrizia Domingues Villarroel
