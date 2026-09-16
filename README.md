@@ -468,6 +468,20 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).*
 - **Country**: Mexico
 
+### Sesgos en la aplicación de IA en el proceso de Selección de Personal
+- Cited work: Derechos y Desafíos de la Inteligencia Artificial
+- Author: Yanina Riggio
+- Institution: Universidad de San Andrés – School of Business and Administration
+- Type: Master's Thesis
+- Date: 2022
+- Language: Spanish
+- Official listing: [Universidad de San Andrés – Institutional Repository](https://dspaceapi.live.udesa.edu.ar/server/api/core/bitstreams/495d9187-6099-43ab-9ac7-fb6f018fc5e5/content)
+- Preserved citation evidence: [PDF extract](citations/2022-riggio-ia-seleccion-personal-extract.pdf)
+- Cited as: Torres, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial. Universidad de Buenos Aires.
+- Correct citation (recommended): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1).
+- Citation context: The thesis cites Torres (2019) in its conceptual framework to explain the predominant learning methods in artificial intelligence, specifically machine learning and deep learning. The work is also included in the final bibliography.
+- Country: Argentina
+
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
 - **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
