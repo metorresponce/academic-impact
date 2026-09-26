@@ -556,11 +556,17 @@ La evidencia documental de citaciones no indexadas se mantiene en este repositor
   - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
   - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
  
-
 ### Cloud-Native Resilience: DevOps and DORA in Financial Services (2025)
-- **Citaciones**: 2 (hasta mayo de 2026)
+- **Citaciones**: 2 (hasta agosto de 2026)
 - **Citaciones seleccionadas**:
   - Crăciun, P.-C. (2026). *Adaptive Financial Infrastructure: A DevOps–Machine Learning Framework for Predictive Resource and Operational Optimization.* Systems, 14(5), 549. MDPI.
+  - Arugula, B. (2026). *From Code to Strategy: A Senior Technical Manager's Journey in Cloud Native Banking Systems.* International Journal of Computer Science and Engineering Innovations (ICCSEMTI-2026).
+
+### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter (2023)
+- **Citaciones**: 1 (as of agosto 2026)
+- **Citaciones seleccionadas**:
+  - Palacio, M.V. (2025). *Addiction Beyond Autobiographical Memory: Implicit Learning, Craving, Habit, and Psychosocial Continuity After Autobiographical Memory Loss* SSRN 7149598.
+
 
 ---
 ## Líneas de Investigación<a id="indice10"></a>
