@@ -416,6 +416,18 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Citado como**: *Torres Ponce, Mariano Enrique. "Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services." Available at SSRN 5541800 (2025)*.
 - **País**: Internacional
 
+### Failure Prevention and Recovery Techniques in Cloud-Based Systems
+- **Trabajo citado**: Cloud-Native Resilience: DevOps and DORA in Financial Services
+- **Autores**: Oluwafemi Oluwagboyega Fabiyi; Mary Magdalene Yeboah
+- **Editorial / Revista**: Magna Scientia Advanced Research and Reviews
+- **Publicado en**: Magna Scientia Advanced Research and Reviews, Vol. 17, No. 1 (2026), pp. 394–405
+- **Fecha de publicación**: 2026
+- **DOI**: 10.30574/msarr.2026.17.1.0114
+- **Idioma**: Inglés
+- **Publicación oficial**: [Magna Scientia Advanced Research and Reviews](https://doi.org/10.30574/msarr.2026.17.1.0114)
+- **Evidencia de la cita (PDF)**: [Descargar](citations/MSARR-2026-0114.pdf)
+- **Citado como**: *Torres Ponce, M. E. (2025). Cloud-Native Resilience: DevOps and DORA in Financial Services. Available at SSRN 5497878.*
+- **País**: Estados Unidos
 
 ---
 
