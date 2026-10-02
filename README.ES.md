@@ -425,7 +425,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **DOI**: 10.30574/msarr.2026.17.1.0114
 - **Idioma**: Inglés
 - **Publicación oficial**: [Magna Scientia Advanced Research and Reviews](https://doi.org/10.30574/msarr.2026.17.1.0114)
-- **Evidencia de la cita (PDF)**: [Descargar](citations/MSARR-2026-0114.pdf)
+- **Evidencia de la cita (PDF)**: [Descargar](citations/2026-fabiyi-yeboah-failure-prevention-recovery-cloud-systems-extract.pdf)
 - **Citado como**: *Torres Ponce, M. E. (2025). Cloud-Native Resilience: DevOps and DORA in Financial Services. Available at SSRN 5497878.*
 - **País**: Estados Unidos
 
