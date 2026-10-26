@@ -187,7 +187,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5552760) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
-- **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 *Inteligencia Artificial en la Salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
