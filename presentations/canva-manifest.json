@@ -15,7 +15,9 @@
     "Always pair ES presentation with README.ES.md and EN presentation with README.md, irrespective of source article language.",
     "Keep all authors intact. Academic review is not authorship.",
     "Do not delete historical Canva versions.",
-    "Do not claim public read-only access without independent anonymous-browser validation."
+    "Do not claim public read-only access without independent anonymous-browser validation.",
+    "V7 cover: full literal original title first, full translation into the other language below, explanatory note identifying language of original and of each presentation, plus reference to alternative edition.",
+    "Author order for IA en Salud Mental, Digital Medicine, and Overdiagnosis checked against PDFs and aligned in the README files."
   ],
   "records": [
     {
@@ -54,23 +56,37 @@
       "source_pdf": "papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZDeP_I8",
+          "canva_design_id": "DAHZbIxamho",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/Brsu6qoahWmww_6",
+          "link": "https://www.canva.com/d/gmCKYmr6dGYmrN0",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZHMnVJk",
+          "canva_design_id": "DAHZbB_jcAo",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/0-aGIxK55v05SrO",
+          "link": "https://www.canva.com/d/QMgAZ7QLehb0R6H",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "From the Panopticon to the Datapoint: Operational power and governance by design"
+      "title": "From the Panopticon to the Datapoint: Operational power and governance by design",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17575262",
@@ -81,23 +97,37 @@
       "source_pdf": "papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZItpzIU",
+          "canva_design_id": "DAHZbJpejVs",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/nyhrKewtu6BK6vf",
+          "link": "https://www.canva.com/d/ABM-6Nm-GNuu03L",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZPN8nCc",
+          "canva_design_id": "DAHZbClxJdc",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/WRtrAsUHuP2KEBf",
+          "link": "https://www.canva.com/d/jhGw-Ty63lDEidE",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas"
+      "title": "Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17575998",
@@ -108,23 +138,37 @@
       "source_pdf": "papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZB40XB0",
+          "canva_design_id": "DAHZbJ4zb6c",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/S-nHMJpXY1ab4mh",
+          "link": "https://www.canva.com/d/RKfH8puppRH8_g_",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZN2ol1o",
+          "canva_design_id": "DAHZbP8GPHo",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/45nISw87anCOnVO",
+          "link": "https://www.canva.com/d/0t7T-V-dp0u5xS1",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo"
+      "title": "Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17508884",
@@ -135,23 +179,37 @@
       "source_pdf": "papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZT54qew",
+          "canva_design_id": "DAHZbCER6t0",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/0NCQmm-D5-XFryx",
+          "link": "https://www.canva.com/d/3j8pt6Poc8bxKUb",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZX_uHs0",
+          "canva_design_id": "DAHZbGsULz4",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/pjlq6vVSKg3cNO_",
+          "link": "https://www.canva.com/d/B2410Svs1YuBHCA",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Informática Forense: El camino de la evidencia digital"
+      "title": "Informática Forense: El camino de la evidencia digital",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17508689",
@@ -162,23 +220,37 @@
       "source_pdf": "papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZeUfprE",
+          "canva_design_id": "DAHZbMfCPRA",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/Zrd8g_aLVfs74x6",
+          "link": "https://www.canva.com/d/eNM0t_OaAcVHuzM",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZbnIVds",
+          "canva_design_id": "DAHZbXGCYVg",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/1y8BwFRgIh43nmX",
+          "link": "https://www.canva.com/d/DxqWJZvevcv_tgq",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Derechos y Desafíos de la Inteligencia Artificial"
+      "title": "Derechos y Desafíos de la Inteligencia Artificial",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.18463145",
@@ -189,23 +261,37 @@
       "source_pdf": "open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa1c5_zw",
+          "canva_design_id": "DAHZbKu8-Xo",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/a9Z4Xx5LrUEAkjJ",
+          "link": "https://www.canva.com/d/CB92MbtQNIRldTU",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa7scU3c",
+          "canva_design_id": "DAHZbdQZx_g",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/ahLKOrzJCZhkJ-R",
+          "link": "https://www.canva.com/d/AD3ri9bsK8ifFJs",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement"
+      "title": "Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17423551",
@@ -216,50 +302,78 @@
       "source_pdf": "open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZE4nRVU",
+          "canva_design_id": "DAHZba2B-OA",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/nTgnQMzWutlOrX1",
+          "link": "https://www.canva.com/d/xw5Vwd2fAfqDsdU",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZFbpF_Q",
+          "canva_design_id": "DAHZbWpWWw4",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/iqghR_O4YYCLF94",
+          "link": "https://www.canva.com/d/phHbrtwdL7qIZ6o",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Cloud-Native Resilience: DevOps and DORA in financial services"
+      "title": "Cloud-Native Resilience: DevOps and DORA in financial services",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17297095",
-      "authors": "Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani",
+      "authors": "Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce",
       "publication_date": "2025-06-03",
       "status": "published",
       "relation_to_marianos_work": "author",
       "source_pdf": "open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa2fhw9w",
+          "canva_design_id": "DAHZbdvB4Ls",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/_jC6IHZsHfTunhi",
+          "link": "https://www.canva.com/d/lF5dag8LYHGJ4n_",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa9z_DzQ",
+          "canva_design_id": "DAHZbbtGiec",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/QStDS1nneQgUA4C",
+          "link": "https://www.canva.com/d/Bx85Tzg-ivNQR1p",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho"
+      "title": "Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17479259",
@@ -270,23 +384,37 @@
       "source_pdf": "open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZJyq7sI",
+          "canva_design_id": "DAHZbR1QmMY",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/tqyR1vzu3NwKaj0",
+          "link": "https://www.canva.com/d/eTJoDVZzmomzgTc",
           "slides": 14,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZPOxs5A",
+          "canva_design_id": "DAHZbbP5268",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/R098ZlgHeE9z9xc",
+          "link": "https://www.canva.com/d/aOybwk4r6_snFSN",
           "slides": 14,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security"
+      "title": "Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17344639",
@@ -297,23 +425,37 @@
       "source_pdf": "open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZazBHfWc",
+          "canva_design_id": "DAHZbcm2Guk",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/XHlEG5aU6EygwvG",
+          "link": "https://www.canva.com/d/Ptz2Jj_OZspP_6W",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa2QAhU4",
+          "canva_design_id": "DAHZbZMf5jE",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/JCmVlcIi_DabMj4",
+          "link": "https://www.canva.com/d/DwL8kFQRw8Lj4tg",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care"
+      "title": "Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17278111",
@@ -324,23 +466,37 @@
       "source_pdf": "open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZaCJqNs",
+          "canva_design_id": "DAHZbcr6RK0",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/guUObjzLhfqvwGQ",
+          "link": "https://www.canva.com/d/ljoP01ncD11TakK",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZbA87qY",
+          "canva_design_id": "DAHZbbe1TPY",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/SBkursmC_nUF7BR",
+          "link": "https://www.canva.com/d/CeaV4GJJE31fpxA",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Propiedad en Transición: SaaS y el nuevo régimen de acceso digital"
+      "title": "Propiedad en Transición: SaaS y el nuevo régimen de acceso digital",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17873281",
@@ -351,23 +507,37 @@
       "source_pdf": "open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZKYQYf4",
+          "canva_design_id": "DAHZbRFSDgc",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/7ciTRINPdY39iAd",
+          "link": "https://www.canva.com/d/c8qKPoq8LlQMyjC",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZB2Zeo0",
+          "canva_design_id": "DAHZbUZ1DjI",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/a0t50s5tuFiheCu",
+          "link": "https://www.canva.com/d/uz2V7q45gTUnt1k",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "The Thousand-Click Bureaucracy: The erosion of due process in digital administration"
+      "title": "The Thousand-Click Bureaucracy: The erosion of due process in digital administration",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17350239",
@@ -378,50 +548,78 @@
       "source_pdf": "open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa_Ov0NE",
+          "canva_design_id": "DAHZbR8gd-Q",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/E05dtThGMw1uXgH",
+          "link": "https://www.canva.com/d/BSjbWOE8yuUuunt",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa7FwYhs",
+          "canva_design_id": "DAHZbZp99F8",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/FCHSY00MIDdPRnT",
+          "link": "https://www.canva.com/d/nuYUqB1u5xEnzVg",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID"
+      "title": "El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.18208838",
-      "authors": "Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani",
+      "authors": "María Noel Arana; Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani",
       "publication_date": "2023-07-20",
       "status": "published",
       "relation_to_marianos_work": "author",
       "source_pdf": "open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa2rr6tw",
+          "canva_design_id": "DAHZbVIEAJc",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/BCCakHcVDMg9Giw",
+          "link": "https://www.canva.com/d/mSsMStlLvKuiu5T",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa9VEck0",
+          "canva_design_id": "DAHZbXgvBLs",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/Tlyr_gb17YiPsSp",
+          "link": "https://www.canva.com/d/TqPIYxkPBRjXMmh",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter"
+      "title": "Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17363577",
@@ -432,23 +630,37 @@
       "source_pdf": "open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZXseQoY",
+          "canva_design_id": "DAHZbUOoXjY",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/leQ7Blfgdv5PAwr",
+          "link": "https://www.canva.com/d/qQwhXKxSLr7h_qk",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZXH3y_o",
+          "canva_design_id": "DAHZbQETq2c",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/Cbx-R0Wws-MDXRC",
+          "link": "https://www.canva.com/d/8udojP4PF9AHhqo",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "SRE in the Law of Technological Risk: Reliability and responsibility"
+      "title": "SRE in the Law of Technological Risk: Reliability and responsibility",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17625619",
@@ -459,23 +671,37 @@
       "source_pdf": "open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZawzLopQ",
+          "canva_design_id": "DAHZbVQuMZo",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/bskgMXKbqMF5vkz",
+          "link": "https://www.canva.com/d/Cv0Paa09bwvrjht",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZazB3pIk",
+          "canva_design_id": "DAHZbebHZ5I",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/PfjJIYCMHl4Fmzg",
+          "link": "https://www.canva.com/d/IcawV4W625kAd_o",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance"
+      "title": "Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17438436",
@@ -486,50 +712,78 @@
       "source_pdf": "open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa7nxDZI",
+          "canva_design_id": "DAHZbZMeImo",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/RQe_tDG8zwnagui",
+          "link": "https://www.canva.com/d/tN2OvAlOqn0ahMy",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa3ADFKo",
+          "canva_design_id": "DAHZbTGuji0",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/tDl4YS8M4Q9FIrb",
+          "link": "https://www.canva.com/d/TooNB8WWHj-awee",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Del Panóptico al Datapoint: Vigilancia y control por arquitectura"
+      "title": "Del Panóptico al Datapoint: Vigilancia y control por arquitectura",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17506876",
-      "authors": "Mariano Enrique Torres Ponce; María Noel Arana",
+      "authors": "María Noel Arana; Mariano Enrique Torres Ponce",
       "publication_date": "2021-11-23",
       "status": "published",
       "relation_to_marianos_work": "author",
       "source_pdf": "open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZZYJqLqg",
+          "canva_design_id": "DAHZbc8niKk",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/wI0hW1CO3wFphVi",
+          "link": "https://www.canva.com/d/E6RP9zqv9_vNs03",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZZRZUFCc",
+          "canva_design_id": "DAHZbS_t0UI",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/MdyrKJxbAVb2w28",
+          "link": "https://www.canva.com/d/yilnLh9JH7kQUhn",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility"
+      "title": "Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17783388",
@@ -540,23 +794,37 @@
       "source_pdf": "open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZa9A_JOI",
+          "canva_design_id": "DAHZbe0Ekck",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/7271gnXrH6Ta6nn",
+          "link": "https://www.canva.com/d/UhU2j7MhBMMDvdc",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa9T5zoA",
+          "canva_design_id": "DAHZbcXUk10",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/F7cpJ_TjmBSv5Vo",
+          "link": "https://www.canva.com/d/rJ1a8Tu5f6XB9Es",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura"
+      "title": "Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.17735815",
@@ -567,23 +835,37 @@
       "source_pdf": "open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZayrZ76Q",
+          "canva_design_id": "DAHZbSRHBlM",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/PiqSPiTi_MBO3PG",
+          "link": "https://www.canva.com/d/iFaGd7yG7TypuOE",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa35r5B4",
+          "canva_design_id": "DAHZbXiqJx0",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/-6wfDLF3X3l8ev4",
+          "link": "https://www.canva.com/d/TANtGeo4YQfYsxX",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": null,
-      "title": "Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida"
+      "title": "Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida",
+      "source_language": "es",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     },
     {
       "doi": "10.5281/zenodo.18528025",
@@ -594,23 +876,39 @@
       "source_pdf": "open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf",
       "presentations": {
         "es": {
-          "canva_design_id": "DAHZawzqbnA",
+          "canva_design_id": "DAHZbXRw3U4",
           "readme": "README.ES.md",
-          "link": "https://www.canva.com/d/LbrpA_sVCBDGzuI",
+          "link": "https://www.canva.com/d/g0-GtgAc3vTUfQb",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "es",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         },
         "en": {
-          "canva_design_id": "DAHZa56G_8U",
+          "canva_design_id": "DAHZbbdNVsY",
           "readme": "README.md",
-          "link": "https://www.canva.com/d/QCUILeVmT-Pq5Pi",
+          "link": "https://www.canva.com/d/DwzJ6KY3LE06SYs",
           "slides": 12,
-          "public_anonymous_access": "unverified"
+          "public_anonymous_access": "unverified",
+          "edition_standard": "V7",
+          "original_title_first": true,
+          "opposite_language_title_below": true,
+          "presentation_language": "en",
+          "original_language_disclosed": true,
+          "alternative_language_presentation_noted": true
         }
       },
       "evidence_basis": "reviewed_full_text",
       "editorial_note": "Mariano Torres Ponce contributed as academic reviewer, not author.",
-      "title": "Child Health and Functional Well-Being in Changing Social Contexts"
+      "title": "Child Health and Functional Well-Being in Changing Social Contexts",
+      "source_language": "en",
+      "title_display_policy": "Original full bibliographic title first; complete opposite-language translation directly below."
     }
-  ]
+  ],
+  "standardization_date": "2026-10-29",
+  "active_standard": "V7 · original title then translated title"
 }
