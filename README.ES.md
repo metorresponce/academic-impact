@@ -291,7 +291,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/iluuX0HwtH4itSj)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/bskgMXKbqMF5vkz)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
 - **Autor**: Mariano Enrique Torres Ponce
@@ -303,7 +303,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5788802)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/qkpgeIFkzeii5rL)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/RQe_tDG8zwnagui)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
 *Medicina Digital en Emergencias Sanitarias: Redefinición de la responsabilidad clínica y jurídica*
@@ -329,7 +329,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/Gd76uN8uAZwHCwB)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/7271gnXrH6Ta6nn)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
 - **Autor**: Mariano Enrique Torres Ponce
@@ -343,7 +343,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 
 ---
 ## Publicaciones del grupo con revisión académica interna (sin autoría directa)<a id="indice2-5"></a>
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/xMT7XxZmCrUmYcz)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/PiqSPiTi_MBO3PG)
 
 ### Child Health and Functional Well-Being in Changing Social Contexts
 *Salud infantil y bienestar funcional en contextos sociales cambiantes*
@@ -359,7 +359,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Rol**: Revisión académica interna y validación conceptual previa a la publicación.
 
 ---
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/IvxbBxr_9yczixb)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/LbrpA_sVCBDGzuI)
 
 ## Distribución en eJournals de SSRN<a id="indice3"></a>
 
