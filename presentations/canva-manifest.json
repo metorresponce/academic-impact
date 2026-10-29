@@ -1,0 +1,594 @@
+{
+  "schema_version": "1.0",
+  "repository": "metorresponce/academic-impact",
+  "branch": "main",
+  "inventory_date": "2026-10-29",
+  "description": "Registry of academic articles and corresponding editable Canva presentations by README language. Not a certification of public accessibility.",
+  "source_of_truth": "DOI and citation metadata in README.ES.md and README.md",
+  "active_folder": "https://www.canva.com/folder/FAHZU2lpzH4",
+  "archive_folder": "https://www.canva.com/folder/FAHZbJhTDig",
+  "prepublication_folder": "https://www.canva.com/folder/FAHZbIybvpc",
+  "access_policy": "Canva links are stored as returned by Canva, but anonymous read-only access was NOT verified; no permission-change capability is available via the connected Canva tools.",
+  "articles_count": 22,
+  "reviewed_full_text_articles": 21,
+  "notes": [
+    "Always pair ES presentation with README.ES.md and EN presentation with README.md, irrespective of source article language.",
+    "Keep all authors intact. Academic review is not authorship.",
+    "Do not delete historical Canva versions.",
+    "Do not claim public read-only access without independent anonymous-browser validation."
+  ],
+  "records": [
+    {
+      "doi": "10.7238/idp.v0i46.980000013974",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2026-11",
+      "status": "pending_publication",
+      "relation_to_marianos_work": "author",
+      "source_pdf": null,
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZWVO166I",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/twJTRoTQC1LF_fT",
+          "slides": 10,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZWVW6nlE",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/TwyhkhaCC66LTGN",
+          "slides": 10,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "readme_abstract_only",
+      "editorial_note": "Prepublication design: not reviewed against complete manuscript. Do not treat as definitive."
+    },
+    {
+      "doi": "10.5281/zenodo.18237585",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2026-04-15",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZDeP_I8",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/Brsu6qoahWmww_6",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZHMnVJk",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/0-aGIxK55v05SrO",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17575262",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2025-10-15",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZItpzIU",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/nyhrKewtu6BK6vf",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZPN8nCc",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/WRtrAsUHuP2KEBf",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17575998",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2025-07-15",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZB40XB0",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/S-nHMJpXY1ab4mh",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZN2ol1o",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/45nISw87anCOnVO",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17508884",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2020-11-08",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZT54qew",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/0NCQmm-D5-XFryx",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZX_uHs0",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/pjlq6vVSKg3cNO_",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17508689",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2019-12-15",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZeUfprE",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/Zrd8g_aLVfs74x6",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZbnIVds",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/1y8BwFRgIh43nmX",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.18463145",
+      "authors": "Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani",
+      "publication_date": "2026-02-02",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa1c5_zw",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/a9Z4Xx5LrUEAkjJ",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa7scU3c",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/ahLKOrzJCZhkJ-R",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17423551",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2025-09-17",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZE4nRVU",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/nTgnQMzWutlOrX1",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZFbpF_Q",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/iqghR_O4YYCLF94",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17297095",
+      "authors": "Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani",
+      "publication_date": "2025-06-03",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa2fhw9w",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/_jC6IHZsHfTunhi",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa9z_DzQ",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/QStDS1nneQgUA4C",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17479259",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2025-05-21",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZJyq7sI",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/tqyR1vzu3NwKaj0",
+          "slides": 14,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZPOxs5A",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/R098ZlgHeE9z9xc",
+          "slides": 14,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17344639",
+      "authors": "Mariano Enrique Torres Ponce; María Noel Arana",
+      "publication_date": "2024-12-20",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZazBHfWc",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/XHlEG5aU6EygwvG",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa2QAhU4",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/JCmVlcIi_DabMj4",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17278111",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2024-07-24",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZaCJqNs",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/guUObjzLhfqvwGQ",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZbA87qY",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/SBkursmC_nUF7BR",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17873281",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2024-03-14",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZKYQYf4",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/7ciTRINPdY39iAd",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZB2Zeo0",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/a0t50s5tuFiheCu",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17350239",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2023-12-15",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa_Ov0NE",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/E05dtThGMw1uXgH",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa7FwYhs",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/FCHSY00MIDdPRnT",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.18208838",
+      "authors": "Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani",
+      "publication_date": "2023-07-20",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa2rr6tw",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/BCCakHcVDMg9Giw",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa9VEck0",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/Tlyr_gb17YiPsSp",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17363577",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2023-02-07",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZXseQoY",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/leQ7Blfgdv5PAwr",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZXH3y_o",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/Cbx-R0Wws-MDXRC",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17625619",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2022-11-18",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZawzLopQ",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/bskgMXKbqMF5vkz",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZazB3pIk",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/PfjJIYCMHl4Fmzg",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17438436",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2022-03-10",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa7nxDZI",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/RQe_tDG8zwnagui",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa3ADFKo",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/tDl4YS8M4Q9FIrb",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17506876",
+      "authors": "Mariano Enrique Torres Ponce; María Noel Arana",
+      "publication_date": "2021-11-23",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZZYJqLqg",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/wI0hW1CO3wFphVi",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZZRZUFCc",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/MdyrKJxbAVb2w28",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17783388",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2019-08-07",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZa9A_JOI",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/7271gnXrH6Ta6nn",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa9T5zoA",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/F7cpJ_TjmBSv5Vo",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.17735815",
+      "authors": "Mariano Enrique Torres Ponce",
+      "publication_date": "2019-04-10",
+      "status": "published",
+      "relation_to_marianos_work": "author",
+      "source_pdf": "open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZayrZ76Q",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/PiqSPiTi_MBO3PG",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa35r5B4",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/-6wfDLF3X3l8ev4",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": null
+    },
+    {
+      "doi": "10.5281/zenodo.18528025",
+      "authors": "María Noel Arana; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani",
+      "publication_date": "2023-01-12",
+      "status": "published",
+      "relation_to_marianos_work": "academic_reviewer",
+      "source_pdf": "open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf",
+      "presentations": {
+        "es": {
+          "canva_design_id": "DAHZawzqbnA",
+          "readme": "README.ES.md",
+          "link": "https://www.canva.com/d/LbrpA_sVCBDGzuI",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        },
+        "en": {
+          "canva_design_id": "DAHZa56G_8U",
+          "readme": "README.md",
+          "link": "https://www.canva.com/d/QCUILeVmT-Pq5Pi",
+          "slides": 12,
+          "public_anonymous_access": "unverified"
+        }
+      },
+      "evidence_basis": "reviewed_full_text",
+      "editorial_note": "Mariano Torres Ponce contributed as academic reviewer, not author."
+    }
+  ]
+}
