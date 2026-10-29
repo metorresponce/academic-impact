@@ -79,7 +79,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18237585)
 - **PDF del Autor**: [Descargar](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/uXqHouSx0nHYP_Q)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/Brsu6qoahWmww_6)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
@@ -95,7 +95,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
 - **Material complementario**: [Demo cloud-native evidence](https://metorresponce.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) – Demostración en navegador que simula un registro de auditoría encadenado por hash y permite descargar un paquete reproducible en formato JSON.
 - **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/mUPxyofIS_-6hEj)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/nyhrKewtu6BK6vf)
 
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
@@ -111,7 +111,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
 - **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/Pr4vT-AyX5fuC4Q)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/S-nHMJpXY1ab4mh)
 
 ### Informática Forense: El camino de la evidencia digital
 - **Autor**: Mariano Enrique Torres Ponce
@@ -172,7 +172,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
 - **Video complementario**: [Ver en YouTube](https://youtu.be/oBbaKEvnpPA) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/InCWD2I4eJi84sg)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/nTgnQMzWutlOrX1)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
 - **Autores**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
@@ -238,7 +238,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
 - **Video complementario**: [Ver en YouTube](https://youtu.be/kmcBfIewVN4) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/_NW3bsF-CAPg8oP)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/7ciTRINPdY39iAd)
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
 - **Autor**: Mariano Enrique Torres Ponce
