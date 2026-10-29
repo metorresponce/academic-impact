@@ -159,7 +159,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/c5QOjR9_j54ztrC)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/ahLKOrzJCZhkJ-R)
 
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
@@ -184,7 +184,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/khbgkYvoutoRrGD)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/QStDS1nneQgUA4C)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 - **Author**: Mariano Enrique Torres Ponce
@@ -210,7 +210,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/an1jrL_91b2g16L)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/JCmVlcIi_DabMj4)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 *Property in Transition: SaaS and the new regime of digital access*
@@ -251,7 +251,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/R7A9QfJwwBZF8Ko)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/FCHSY00MIDdPRnT)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 - **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
@@ -264,7 +264,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/solDuH0fAseEJO8)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Tlyr_gb17YiPsSp)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
