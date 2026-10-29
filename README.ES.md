@@ -158,7 +158,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **PDF del Autor / Grupo**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/EPUaC7u8V2dJdqp)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/a9Z4Xx5LrUEAkjJ)
 
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
@@ -183,7 +183,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17297095)
 - **PDF del Autor / Grupo**: [Descargar](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/b8F9CQ_KMOISHTw)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/_jC6IHZsHfTunhi)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 *Código Abierto Bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
@@ -211,7 +211,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **PDF del Autor / Grupo**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/CeRKIV3ydXedMwZ)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/XHlEG5aU6EygwvG)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 - **Autor**: Mariano Enrique Torres Ponce
@@ -250,7 +250,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/mYkAHUrflP6UDd-)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/E05dtThGMw1uXgH)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 *Sobrediagnóstico por Saturación Informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
@@ -264,7 +264,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **PDF del Autor / Grupo**: [Descargar](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/kpHvoona2m2hVTx)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/BCCakHcVDMg9Giw)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
