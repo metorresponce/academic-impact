@@ -86,6 +86,21 @@ def main() -> int:
                 fail(f"{doi}: reviewer incorrectly classified as author")
         if record["status"] == "pending_publication" and record.get("evidence_basis") != "readme_abstract_only":
             fail(f"{doi}: manuscript not yet available for full-text review")
+        if record["status"] == "published":
+            if record.get("source_language") not in {"es", "en"}:
+                fail(f"{doi}: missing or invalid original publication language")
+            for edition_lang in ("es", "en"):
+                edition = record["presentations"][edition_lang]
+                expected_fields = (
+                    edition.get("edition_standard") == "V7"
+                    and edition.get("original_title_first") is True
+                    and edition.get("opposite_language_title_below") is True
+                    and edition.get("original_language_disclosed") is True
+                    and edition.get("alternative_language_presentation_noted") is True
+                    and edition.get("presentation_language") == edition_lang
+                )
+                if not expected_fields:
+                    fail(f"{doi} {edition_lang}: V7 original-title bilingual policy not recorded")
     print(
         f"OK: {len(records)} papers, {total} bilingual Canva references, "
         "no DOI or URL discrepancies; PDF sources and authorship metadata checked."
