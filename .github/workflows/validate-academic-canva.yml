@@ -1,0 +1,33 @@
+name: Validate academic Canva registry
+
+on:
+  push:
+    paths:
+      - 'README.md'
+      - 'README.ES.md'
+      - 'presentations/**'
+      - '.github/workflows/validate-academic-canva.yml'
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'README.ES.md'
+      - 'presentations/**'
+      - '.github/workflows/validate-academic-canva.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-presentations:
+    name: Check paper / DOI / language / Canva mappings
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify manifest against both README files
+        run: python presentations/validate_canva_manifest.py
