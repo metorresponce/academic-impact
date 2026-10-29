@@ -289,7 +289,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/-wdZcS2o30PIqtB)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/PfjJIYCMHl4Fmzg)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
 *From the Panopticon to the Datapoint: Surveillance and Control by Design*
@@ -302,7 +302,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN URL](https://ssrn.com/abstract=5788802)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/vTK2Ec3rQisAwHO)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/tDl4YS8M4Q9FIrb)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -328,7 +328,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/-pP8nWWkFUYC770)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/F7cpJ_TjmBSv5Vo)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida  
 *Institutional Responsibility in Information Security: Documentary evidence and due diligence*
@@ -344,7 +344,7 @@ The publication strategy prioritizes established academic repositories and prese
 ---
 
 ## Group publications with academic internal review (no direct authorship)<a id="index2-5"></a>
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/T_YznG-t3vfvSQ9)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/-6wfDLF3X3l8ev4)
 
 ### Child Health and Functional Well-Being in Changing Social Contexts  
 
@@ -363,7 +363,7 @@ The publication strategy prioritizes established academic repositories and prese
 
 
 ---
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/yXJfyDIRcb_UfNB)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/QCUILeVmT-Pq5Pi)
 ## SSRN eJournal Distribution<a id="index3"></a>
 
 A selection of my research outputs has been editorially distributed through curated SSRN Subject Matter eJournals. Distribution reflects thematic relevance and inclusion in peer-curated academic mailing lists across law, regulation, technology and governance.
