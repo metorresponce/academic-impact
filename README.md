@@ -127,7 +127,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
 - **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Download BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/f99i_lySVx7C546)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/pjlq6vVSKg3cNO_)
 
 ### Derechos y Desafíos de la Inteligencia Artificial  
 *Rights and Challenges of Artificial Intelligence*
@@ -147,7 +147,7 @@ The publication strategy prioritizes established academic repositories and prese
 
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/pvV25ltVrw1I1h0)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/1y8BwFRgIh43nmX)
 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 - **Author**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
@@ -223,7 +223,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/UtN9WKHADkySgA_)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/SBkursmC_nUF7BR)
 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 - **Authors**: Mariano Enrique Torres Ponce
@@ -277,7 +277,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/fuaZtZ15Xq7oyyy)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Cbx-R0Wws-MDXRC)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
 - **Author**: Mariano Enrique Torres Ponce
@@ -315,7 +315,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/cnjOccAnfEva0TP)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/MdyrKJxbAVb2w28)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 *IT Contracting in Argentina: Business continuity, source code escrow and infrastructure provision*
