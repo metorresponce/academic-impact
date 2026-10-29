@@ -197,7 +197,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/8anGS8ZWN1Ym4HY)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/R098ZlgHeE9z9xc)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
