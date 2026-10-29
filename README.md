@@ -63,6 +63,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Language**: Spanish
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
 - **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TwyhkhaCC66LTGN)
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
 - **Author**: Mariano Enrique Torres Ponce
@@ -77,6 +78,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18237585)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/SxKSUPucIjkTZjN)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
@@ -93,6 +95,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575262)
 - **Supplementary material**: Supplementary interactive demo illustrating cloud-native forensic evidence handling and traceability [(Cloud-Native Evidence Demo)](https://metorresponce.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Yohf_5V_svWvrEz)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
 *Creations with Artificial Intelligence: ownership criteria and regulatory framework*
@@ -108,7 +111,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575998)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
-- **Academic presentation (English)**: [View presentation on Canva](https://canva.link/lhh04xxw6y5g0k0)
+- **Academic presentation**: [View presentation on Canva](https://canva.link/lhh04xxw6y5g0k0)
 
 ### Informática Forense: El camino de la evidencia digital  
 *Computer Forensics: The path of digital evidence*
@@ -124,6 +127,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
 - **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Download BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/f99i_lySVx7C546)
 
 ### Derechos y Desafíos de la Inteligencia Artificial  
 *Rights and Challenges of Artificial Intelligence*
@@ -143,6 +147,7 @@ The publication strategy prioritizes established academic repositories and prese
 
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/pvV25ltVrw1I1h0)
 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 - **Author**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
@@ -154,6 +159,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=6168410) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6168410)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18463145)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/c5QOjR9_j54ztrC)
 
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
@@ -166,6 +172,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/oBbaKEvnpPA) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/GZrqqoxYpOKZIWk)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
 *Artificial Intelligence in Mental Health: Patient safety, ethics, and law*
@@ -177,6 +184,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/khbgkYvoutoRrGD)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 - **Author**: Mariano Enrique Torres Ponce
@@ -189,6 +197,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/8anGS8ZWN1Ym4HY)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -201,6 +210,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/an1jrL_91b2g16L)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 *Property in Transition: SaaS and the new regime of digital access*
@@ -213,6 +223,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/UtN9WKHADkySgA_)
 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 - **Authors**: Mariano Enrique Torres Ponce
@@ -226,6 +237,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/kmcBfIewVN4) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/7n49Dqe1TWyLlFq)
 
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
@@ -239,6 +251,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5603512) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5603512)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/R7A9QfJwwBZF8Ko)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 - **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
@@ -251,6 +264,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/solDuH0fAseEJO8)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
@@ -263,6 +277,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/fuaZtZ15Xq7oyyy)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
 - **Author**: Mariano Enrique Torres Ponce
@@ -274,6 +289,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5756542) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/-wdZcS2o30PIqtB)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
 *From the Panopticon to the Datapoint: Surveillance and Control by Design*
@@ -286,6 +302,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN URL](https://ssrn.com/abstract=5788802)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/vTK2Ec3rQisAwHO)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -298,6 +315,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/cnjOccAnfEva0TP)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 *IT Contracting in Argentina: Business continuity, source code escrow and infrastructure provision*
@@ -310,6 +328,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Parallel version**: [SSRN - URL](https://ssrn.com/abstract=5877403) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5877403)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/-pP8nWWkFUYC770)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida  
 *Institutional Responsibility in Information Security: Documentary evidence and due diligence*
@@ -325,6 +344,7 @@ The publication strategy prioritizes established academic repositories and prese
 ---
 
 ## Group publications with academic internal review (no direct authorship)<a id="index2-5"></a>
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/T_YznG-t3vfvSQ9)
 
 ### Child Health and Functional Well-Being in Changing Social Contexts  
 
@@ -343,6 +363,7 @@ The publication strategy prioritizes established academic repositories and prese
 
 
 ---
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/yXJfyDIRcb_UfNB)
 ## SSRN eJournal Distribution<a id="index3"></a>
 
 A selection of my research outputs has been editorially distributed through curated SSRN Subject Matter eJournals. Distribution reflects thematic relevance and inclusion in peer-curated academic mailing lists across law, regulation, technology and governance.
