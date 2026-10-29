@@ -108,6 +108,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
 - **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **Presentación académica (español)**: [Ver presentación en Canva](https://www.canva.com/d/nkDJ6Qa9GZpXmqe)
 
 ### Informática Forense: El camino de la evidencia digital
 - **Autor**: Mariano Enrique Torres Ponce
