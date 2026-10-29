@@ -78,7 +78,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18237585)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/SxKSUPucIjkTZjN)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/0-aGIxK55v05SrO)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
@@ -95,7 +95,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575262)
 - **Supplementary material**: Supplementary interactive demo illustrating cloud-native forensic evidence handling and traceability [(Cloud-Native Evidence Demo)](https://metorresponce.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Yohf_5V_svWvrEz)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/WRtrAsUHuP2KEBf)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
 *Creations with Artificial Intelligence: ownership criteria and regulatory framework*
@@ -111,7 +111,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575998)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
-- **Academic presentation**: [View presentation on Canva](https://canva.link/lhh04xxw6y5g0k0)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/45nISw87anCOnVO)
 
 ### Informática Forense: El camino de la evidencia digital  
 *Computer Forensics: The path of digital evidence*
@@ -172,7 +172,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/oBbaKEvnpPA) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/GZrqqoxYpOKZIWk)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/iqghR_O4YYCLF94)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
 *Artificial Intelligence in Mental Health: Patient safety, ethics, and law*
@@ -237,7 +237,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/kmcBfIewVN4) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/7n49Dqe1TWyLlFq)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/a0t50s5tuFiheCu)
 
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
