@@ -126,7 +126,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508884)
 - **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/gr9wt4I2mH7wDbt)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/0NCQmm-D5-XFryx)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Autor**: Mariano Enrique Torres Ponce
@@ -145,7 +145,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/v5dmRNJeF3q8QhG)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/Zrd8g_aLVfs74x6)
 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 *Detectar no es Comprender: Análisis funcional, audiovisual y jurídico de la mediación algorítmica del movimiento humano*
@@ -223,7 +223,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=5687822) / [SSRN - DOI](https://doi.org/10.2139/ssrn.5687822)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17278111)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/N3UpL5OEM6Dyn85)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/guUObjzLhfqvwGQ)
 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 *La Burocracia de los Mil Clics: La erosión del debido proceso en la administración digital*
@@ -278,7 +278,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/bUEfUqFg16cLwWn)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/leQ7Blfgdv5PAwr)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
@@ -317,7 +317,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17506876)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **PDF del Autor / Grupo**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/4tLcXDpVWD3oTmD)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/wI0hW1CO3wFphVi)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 - **Autor**: Mariano Enrique Torres Ponce
