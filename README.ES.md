@@ -60,10 +60,12 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Revista**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
 - **ISSN**: 1699-8154
 - **Fecha**: 2026-11
+- **Estado de publicación**: Prevista para noviembre de 2026; artículo aún no publicado.
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los registros técnicos generados con fines operativos, y no probatorios, transforman la prueba digital y afectan la trazabilidad, las asimetrías técnicas, el debido proceso y el control institucional en entornos automatizados.
 - **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/twJTRoTQC1LF_fT)
+- **Estado de la presentación**: Borrador basado exclusivamente en el resumen bibliográfico; pendiente de revisión contra el manuscrito completo.
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design
 *Del Panóptico al Datapoint: Poder operativo y gobernanza por diseño*
