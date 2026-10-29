@@ -60,10 +60,12 @@ The publication strategy prioritizes established academic repositories and prese
 - **Published in**: IDP. Revista de Internet, Derecho y Política, Nº 46 (2026)
 - **ISSN**: 1699-8154
 - **Date**: 2026-11
+- **Publication status**: Scheduled for November 2026; article not yet published.
 - **Language**: Spanish
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
 - **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TwyhkhaCC66LTGN)
+- **Presentation status**: Preliminary abstract-based draft; not yet reviewed against the complete manuscript.
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
 - **Author**: Mariano Enrique Torres Ponce
