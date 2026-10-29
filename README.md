@@ -108,6 +108,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575998)
 - **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **Academic presentation (English)**: [View presentation on Canva](https://www.canva.com/d/-sphZTX3NrcOtkW)
 
 ### Informática Forense: El camino de la evidencia digital  
 *Computer Forensics: The path of digital evidence*
