@@ -42,7 +42,8 @@
         }
       },
       "evidence_basis": "readme_abstract_only",
-      "editorial_note": "Prepublication design: not reviewed against complete manuscript. Do not treat as definitive."
+      "editorial_note": "Prepublication design: not reviewed against complete manuscript. Do not treat as definitive.",
+      "title": "Evidencia que no fue producida para probar: Registros técnicos, automatización y límites de la prueba digital"
     },
     {
       "doi": "10.5281/zenodo.18237585",
@@ -68,7 +69,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "From the Panopticon to the Datapoint: Operational power and governance by design"
     },
     {
       "doi": "10.5281/zenodo.17575262",
@@ -94,7 +96,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas"
     },
     {
       "doi": "10.5281/zenodo.17575998",
@@ -120,7 +123,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo"
     },
     {
       "doi": "10.5281/zenodo.17508884",
@@ -146,7 +150,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Informática Forense: El camino de la evidencia digital"
     },
     {
       "doi": "10.5281/zenodo.17508689",
@@ -172,7 +177,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Derechos y Desafíos de la Inteligencia Artificial"
     },
     {
       "doi": "10.5281/zenodo.18463145",
@@ -198,7 +204,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement"
     },
     {
       "doi": "10.5281/zenodo.17423551",
@@ -224,7 +231,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Cloud-Native Resilience: DevOps and DORA in financial services"
     },
     {
       "doi": "10.5281/zenodo.17297095",
@@ -250,7 +258,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho"
     },
     {
       "doi": "10.5281/zenodo.17479259",
@@ -276,7 +285,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security"
     },
     {
       "doi": "10.5281/zenodo.17344639",
@@ -302,7 +312,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care"
     },
     {
       "doi": "10.5281/zenodo.17278111",
@@ -328,7 +339,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Propiedad en Transición: SaaS y el nuevo régimen de acceso digital"
     },
     {
       "doi": "10.5281/zenodo.17873281",
@@ -354,7 +366,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "The Thousand-Click Bureaucracy: The erosion of due process in digital administration"
     },
     {
       "doi": "10.5281/zenodo.17350239",
@@ -380,7 +393,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID"
     },
     {
       "doi": "10.5281/zenodo.18208838",
@@ -406,7 +420,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter"
     },
     {
       "doi": "10.5281/zenodo.17363577",
@@ -432,7 +447,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "SRE in the Law of Technological Risk: Reliability and responsibility"
     },
     {
       "doi": "10.5281/zenodo.17625619",
@@ -458,7 +474,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance"
     },
     {
       "doi": "10.5281/zenodo.17438436",
@@ -484,7 +501,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Del Panóptico al Datapoint: Vigilancia y control por arquitectura"
     },
     {
       "doi": "10.5281/zenodo.17506876",
@@ -510,7 +528,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility"
     },
     {
       "doi": "10.5281/zenodo.17783388",
@@ -536,7 +555,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura"
     },
     {
       "doi": "10.5281/zenodo.17735815",
@@ -562,7 +582,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": null
+      "editorial_note": null,
+      "title": "Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida"
     },
     {
       "doi": "10.5281/zenodo.18528025",
@@ -588,7 +609,8 @@
         }
       },
       "evidence_basis": "reviewed_full_text",
-      "editorial_note": "Mariano Torres Ponce contributed as academic reviewer, not author."
+      "editorial_note": "Mariano Torres Ponce contributed as academic reviewer, not author.",
+      "title": "Child Health and Functional Well-Being in Changing Social Contexts"
     }
   ]
 }
