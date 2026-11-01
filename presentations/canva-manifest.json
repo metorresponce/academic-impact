@@ -8,7 +8,7 @@
   "active_folder": "https://www.canva.com/folder/FAHZU2lpzH4",
   "archive_folder": "https://www.canva.com/folder/FAHZbJhTDig",
   "prepublication_folder": "https://www.canva.com/folder/FAHZbIybvpc",
-  "access_policy": "Canva links are stored as returned by Canva, but anonymous read-only access was NOT verified; no permission-change capability is available via the connected Canva tools.",
+  "access_policy": "Anonymous navigation checked individually on 2026-11-01: all 42 published V7 README links redirected to Canva login in the test browser. Effective view-only permissions remain unverified. The two pending-publication drafts were not tested and remain unverified. No sharing permissions were changed; the connected Canva tools do not expose sharing-permission inspection or modification.",
   "articles_count": 22,
   "reviewed_full_text_articles": 21,
   "notes": [
@@ -60,26 +60,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/gmCKYmr6dGYmrN0",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/gmCKYmr6dGYmrN0",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbB_jcAo",
           "readme": "README.md",
           "link": "https://www.canva.com/d/QMgAZ7QLehb0R6H",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/QMgAZ7QLehb0R6H",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -101,26 +121,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/ABM-6Nm-GNuu03L",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/ABM-6Nm-GNuu03L",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbClxJdc",
           "readme": "README.md",
           "link": "https://www.canva.com/d/jhGw-Ty63lDEidE",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/jhGw-Ty63lDEidE",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -142,26 +182,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/RKfH8puppRH8_g_",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/RKfH8puppRH8_g_",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbP8GPHo",
           "readme": "README.md",
           "link": "https://www.canva.com/d/0t7T-V-dp0u5xS1",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/0t7T-V-dp0u5xS1",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -183,26 +243,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/3j8pt6Poc8bxKUb",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/3j8pt6Poc8bxKUb",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbGsULz4",
           "readme": "README.md",
           "link": "https://www.canva.com/d/B2410Svs1YuBHCA",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/B2410Svs1YuBHCA",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -224,26 +304,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/eNM0t_OaAcVHuzM",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/eNM0t_OaAcVHuzM",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbXGCYVg",
           "readme": "README.md",
           "link": "https://www.canva.com/d/DxqWJZvevcv_tgq",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/DxqWJZvevcv_tgq",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -265,26 +365,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/CB92MbtQNIRldTU",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/CB92MbtQNIRldTU",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbdQZx_g",
           "readme": "README.md",
           "link": "https://www.canva.com/d/AD3ri9bsK8ifFJs",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/AD3ri9bsK8ifFJs",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -306,26 +426,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/xw5Vwd2fAfqDsdU",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/xw5Vwd2fAfqDsdU",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbWpWWw4",
           "readme": "README.md",
           "link": "https://www.canva.com/d/phHbrtwdL7qIZ6o",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/phHbrtwdL7qIZ6o",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -347,26 +487,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/lF5dag8LYHGJ4n_",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/lF5dag8LYHGJ4n_",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbbtGiec",
           "readme": "README.md",
           "link": "https://www.canva.com/d/Bx85Tzg-ivNQR1p",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/Bx85Tzg-ivNQR1p",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -388,26 +548,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/eTJoDVZzmomzgTc",
           "slides": 14,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/eTJoDVZzmomzgTc",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbbP5268",
           "readme": "README.md",
           "link": "https://www.canva.com/d/aOybwk4r6_snFSN",
           "slides": 14,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/aOybwk4r6_snFSN",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -429,26 +609,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/Ptz2Jj_OZspP_6W",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/Ptz2Jj_OZspP_6W",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbZMf5jE",
           "readme": "README.md",
           "link": "https://www.canva.com/d/DwL8kFQRw8Lj4tg",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/DwL8kFQRw8Lj4tg",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -470,26 +670,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/ljoP01ncD11TakK",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/ljoP01ncD11TakK",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbbe1TPY",
           "readme": "README.md",
           "link": "https://www.canva.com/d/CeaV4GJJE31fpxA",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/CeaV4GJJE31fpxA",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -511,26 +731,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/c8qKPoq8LlQMyjC",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/c8qKPoq8LlQMyjC",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbUZ1DjI",
           "readme": "README.md",
           "link": "https://www.canva.com/d/uz2V7q45gTUnt1k",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/uz2V7q45gTUnt1k",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -552,26 +792,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/BSjbWOE8yuUuunt",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/BSjbWOE8yuUuunt",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbZp99F8",
           "readme": "README.md",
           "link": "https://www.canva.com/d/nuYUqB1u5xEnzVg",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/nuYUqB1u5xEnzVg",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -593,26 +853,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/mSsMStlLvKuiu5T",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/mSsMStlLvKuiu5T",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbXgvBLs",
           "readme": "README.md",
           "link": "https://www.canva.com/d/TqPIYxkPBRjXMmh",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/TqPIYxkPBRjXMmh",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -634,26 +914,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/qQwhXKxSLr7h_qk",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/qQwhXKxSLr7h_qk",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbQETq2c",
           "readme": "README.md",
           "link": "https://www.canva.com/d/8udojP4PF9AHhqo",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/8udojP4PF9AHhqo",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -675,26 +975,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/Cv0Paa09bwvrjht",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/Cv0Paa09bwvrjht",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbebHZ5I",
           "readme": "README.md",
           "link": "https://www.canva.com/d/IcawV4W625kAd_o",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/IcawV4W625kAd_o",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -716,26 +1036,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/tN2OvAlOqn0ahMy",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/tN2OvAlOqn0ahMy",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbTGuji0",
           "readme": "README.md",
           "link": "https://www.canva.com/d/TooNB8WWHj-awee",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/TooNB8WWHj-awee",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -757,26 +1097,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/E6RP9zqv9_vNs03",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/E6RP9zqv9_vNs03",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbS_t0UI",
           "readme": "README.md",
           "link": "https://www.canva.com/d/yilnLh9JH7kQUhn",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/yilnLh9JH7kQUhn",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -798,26 +1158,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/UhU2j7MhBMMDvdc",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/UhU2j7MhBMMDvdc",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbcXUk10",
           "readme": "README.md",
           "link": "https://www.canva.com/d/rJ1a8Tu5f6XB9Es",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/rJ1a8Tu5f6XB9Es",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -839,26 +1219,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/iFaGd7yG7TypuOE",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/iFaGd7yG7TypuOE",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbXiqJx0",
           "readme": "README.md",
           "link": "https://www.canva.com/d/TANtGeo4YQfYsxX",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/TANtGeo4YQfYsxX",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
@@ -880,26 +1280,46 @@
           "readme": "README.ES.md",
           "link": "https://www.canva.com/d/g0-GtgAc3vTUfQb",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "es",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/g0-GtgAc3vTUfQb",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         },
         "en": {
           "canva_design_id": "DAHZbbdNVsY",
           "readme": "README.md",
           "link": "https://www.canva.com/d/DwzJ6KY3LE06SYs",
           "slides": 12,
-          "public_anonymous_access": "unverified",
+          "public_anonymous_access": "authentication_required",
           "edition_standard": "V7",
           "original_title_first": true,
           "opposite_language_title_below": true,
           "presentation_language": "en",
           "original_language_disclosed": true,
-          "alternative_language_presentation_noted": true
+          "alternative_language_presentation_noted": true,
+          "access_verification": {
+            "checked_on": "2026-11-01",
+            "method": "direct_navigation_without_sign_in_in_remote_chrome",
+            "tested_url": "https://www.canva.com/d/DwzJ6KY3LE06SYs",
+            "observed_destination": "https://www.canva.com/login/",
+            "observed_heading": "Log in or sign up in seconds",
+            "view_only_permissions": "unverified",
+            "scope": "Observed behavior in the test browser; does not establish internal sharing settings or behavior in all browsers.",
+            "evidence_report": "presentations/VERIFICACION_ACCESO_ANONIMO_V7_2026-11-01.md"
+          }
         }
       },
       "evidence_basis": "reviewed_full_text",
