@@ -9,6 +9,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "presentations" / "canva-manifest.json"
@@ -25,21 +26,41 @@ def fail(message: str) -> None:
 
 
 def catalogue(text: str, filename: str) -> dict[str, dict[str, str]]:
-    sections = list(HEADINGS.finditer(text))
+    boundaries = list(re.finditer(r"(?m)^(?:#{1,3} [^\r\n]+| {0,3}(?:-{3,}|\*{3,}|_{3,})[ \t]*$)", text))
     out: dict[str, dict[str, str]] = {}
-    for i, match in enumerate(sections):
-        block = text[match.start():sections[i + 1].start() if i + 1 < len(sections) else len(text)]
-        doi = DOI_PATTERN.search(block)
-        presentation = PRESENTATION.search(block)
-        if not presentation:
+    found = 0
+    for i, match in enumerate(boundaries):
+        block = text[match.start():boundaries[i + 1].start() if i + 1 < len(boundaries) else len(text)]
+        presentations = list(PRESENTATION.finditer(block))
+        if not presentations:
             continue
-        if not doi:
-            fail(f"{filename}: presentation has no DOI: {match.group(1)}")
+        heading = HEADINGS.match(block)
+        doi = DOI_PATTERN.search(block)
+        if not heading or not doi:
+            fail(f"{filename}: presentation outside an article card near line {text.count(chr(10), 0, match.start()) + 1}")
+        if len(presentations) != 1:
+            fail(f"{filename}: multiple presentations in one article card")
         key = doi.group(1)
         if key in out:
             fail(f"{filename}: repeated presentation for DOI {key}")
-        out[key] = {"title": match.group(1).strip(), "link": presentation.group(1), "block": block}
+        out[key] = {"title": heading.group(1).strip(), "link": presentations[0].group(1), "block": block}
+        found += 1
+    if found != len(PRESENTATION.findall(text)):
+        fail(f"{filename}: presentation outside an article card")
     return out
+
+
+def validate_pdf_links(text: str, filename: str) -> None:
+    """Check local PDF targets, including percent-encoded paths and URL fragments."""
+    for target in re.findall(r"\[[^\]\n]*\]\(([^)]+)\)", text):
+        url = urlsplit(target.strip().strip("<>"))
+        if url.scheme or url.netloc:
+            continue
+        path = unquote(url.path)
+        if path.lower().endswith(".pdf"):
+            resolved = (ROOT / filename).parent / path
+            if not resolved.is_file():
+                fail(f"{filename}: PDF link does not exist: {path}")
 
 
 def main() -> int:
@@ -53,6 +74,7 @@ def main() -> int:
     total = 0
     for lang, filename in (("es", "README.ES.md"), ("en", "README.md")):
         source = (ROOT / filename).read_text(encoding="utf-8")
+        validate_pdf_links(source, filename)
         entries = catalogue(source, filename)
         if set(entries) != set(expected):
             missing = sorted(set(expected) - set(entries))
@@ -60,6 +82,9 @@ def main() -> int:
             fail(f"{filename}: DOI mismatch; missing={missing}; extra={extra}")
         for doi, record in expected.items():
             entry = entries[doi]
+            authors = re.search(r"(?m)^- \*\*(?:Autor(?:es)?|Authors?)\*\*: (.+)", entry["block"])
+            if not authors or authors.group(1).strip() != record["authors"]:
+                fail(f"{doi} {lang}: README and manifest authors differ")
             design = record["presentations"][lang]
             if design["readme"] != filename:
                 fail(f"{doi}: wrong README language mapping")
@@ -115,3 +140,4 @@ if __name__ == "__main__":
     except (ValueError, KeyError, FileNotFoundError) as exc:
         print(f"ERROR: {exc}", file=sys.stderr)
         sys.exit(1)
+

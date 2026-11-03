@@ -146,10 +146,11 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/-ZJk3SwtEu0) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
 - **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Download BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/DxqWJZvevcv_tgq)
+
 
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/DxqWJZvevcv_tgq)
 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 - **Author**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
@@ -342,11 +343,12 @@ The publication strategy prioritizes established academic repositories and prese
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17735815)
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TANtGeo4YQfYsxX)
+
 
 ---
 
 ## Group publications with academic internal review (no direct authorship)<a id="index2-5"></a>
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TANtGeo4YQfYsxX)
 
 ### Child Health and Functional Well-Being in Changing Social Contexts  
 
@@ -360,12 +362,13 @@ The publication strategy prioritizes established academic repositories and prese
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18528025)  
 - **Preserved PDF (Author / Group Copy)**: [Download](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Role**: Academic internal review and conceptual validation prior to publication.
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/DwzJ6KY3LE06SYs)
+
 
 
 
 
 ---
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/DwzJ6KY3LE06SYs)
 ## SSRN eJournal Distribution<a id="index3"></a>
 
 A selection of my research outputs has been editorially distributed through curated SSRN Subject Matter eJournals. Distribution reflects thematic relevance and inclusion in peer-curated academic mailing lists across law, regulation, technology and governance.
@@ -625,3 +628,4 @@ Documentary evidence of non-Scholar citations is maintained in this repository.
 ## Notes<a id="index11"></a>
 
 *This repository does not reproduce copyrighted works in full. Only excerpts (cover, index, citation pages) are provided as evidence of citation and academic reference.*
+

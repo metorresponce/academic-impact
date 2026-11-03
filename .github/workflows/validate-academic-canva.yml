@@ -31,3 +31,7 @@ jobs:
           python-version: '3.12'
       - name: Verify manifest against both README files
         run: python presentations/validate_canva_manifest.py
+
+      - name: Test README validation regressions
+        run: python -m unittest discover -s presentations -p 'test_*.py' -v
+

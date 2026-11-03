@@ -144,10 +144,11 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
 - **Video complementario**: [Ver en YouTube](https://youtu.be/-ZJk3SwtEu0) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/eNM0t_OaAcVHuzM)
+
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/eNM0t_OaAcVHuzM)
 
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 *Detectar no es Comprender: Análisis funcional, audiovisual y jurídico de la mediación algorítmica del movimiento humano*
@@ -342,10 +343,11 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17735815)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/iFaGd7yG7TypuOE)
+
 
 ---
 ## Publicaciones del grupo con revisión académica interna (sin autoría directa)<a id="indice2-5"></a>
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/iFaGd7yG7TypuOE)
 
 ### Child Health and Functional Well-Being in Changing Social Contexts
 *Salud infantil y bienestar funcional en contextos sociales cambiantes*
@@ -357,11 +359,12 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.18528025](https://doi.org/10.5281/zenodo.18528025)  
 - **Versión paralela**: [SSRN - URL](https://ssrn.com/abstract=6434180) / [SSRN - DOI](https://doi.org/10.2139/ssrn.6434180)  
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18528025)  
-- **PDF del Autor / Grupo**: [Descargar](Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
+- **PDF del Autor / Grupo**: [Descargar](open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf)  
 - **Rol**: Revisión académica interna y validación conceptual previa a la publicación.
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/g0-GtgAc3vTUfQb)
+
 
 ---
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/g0-GtgAc3vTUfQb)
 
 ## Distribución en eJournals de SSRN<a id="indice3"></a>
 
@@ -614,3 +617,4 @@ La evidencia documental de citaciones no indexadas se mantiene en este repositor
 ---
 ## Nota Final<a id="indice11"></a>
 *Este repositorio no reproduce íntegramente obras protegidas por derechos de autor. Solo se incluyen extractos (portada, índice y páginas de citación) con fines probatorios y de referencia académica.*
+
