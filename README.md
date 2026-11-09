@@ -65,7 +65,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
 - **Official version**: [Read online](https://raco.cat/index.php/IDP/article/view/980000005517/553021)
 - **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517)
-- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_Evidencia-no-producida.pdf)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TwyhkhaCC66LTGN)
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
