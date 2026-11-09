@@ -63,9 +63,10 @@ The publication strategy prioritizes established academic repositories and prese
 - **Publication status**: Scheduled for November 2026; article not yet published.
 - **Language**: Spanish
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
-- **DOI**: [10.7238/idp.v0i46.980000013974](https://doi.org/10.7238/idp.v0i46.980000013974)
+- - **Official version**: [Read online](https://raco.cat/index.php/IDP/article/view/980000005517/553021)
+- **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TwyhkhaCC66LTGN)
-- **Presentation status**: Preliminary abstract-based draft; not yet reviewed against the complete manuscript.
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
 - **Author**: Mariano Enrique Torres Ponce
@@ -79,7 +80,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=250203)
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18237585)
-- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_2026_Evidencia-no-producida.pdf)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/QMgAZ7QLehb0R6H)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
