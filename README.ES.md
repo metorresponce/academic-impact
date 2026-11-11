@@ -63,7 +63,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Estado de publicación**: Prevista para noviembre de 2026; artículo aún no publicado.
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los registros técnicos generados con fines operativos, y no probatorios, transforman la prueba digital y afectan la trazabilidad, las asimetrías técnicas, el debido proceso y el control institucional en entornos automatizados.
-- **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517) [UOC - URL](https://raco.cat/index.php/IDP/article/view/980000005517)
+- **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517) / [UOC - URL](https://raco.cat/index.php/IDP/article/view/980000005517)
 - **PDF del Autor**: [Descargar](papers/TorresPonce_2026_Evidencia-no-producida.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/twJTRoTQC1LF_fT)
 
