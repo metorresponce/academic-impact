@@ -157,6 +157,19 @@ The publication strategy prioritizes established academic repositories and prese
 ---
 ## Open Access Publications with DOI<a id="index2"></a>
 
+### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
+
+- **Translated title**: Artificial Intelligence in Mental Health: Patient safety, ethics, and law
+- **Authors**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
+- **Date**: 2026-06-03
+- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Language**: Spanish
+- **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
+- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
+- **Preservation copy (Internet Archive)**: [View on Internet Archive](https://archive.org/details/zenodo.17297095)
+- **Preserved PDF (author/group copy)**: [Download PDF](open-access/TorresPonce_ArroyoGiuliani_IA-Salud-Mental.pdf)
+- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Bx85Tzg-ivNQR1p)
+
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 
 - **Authors**: Mariano Enrique Torres Ponce; Pablo Daniel Moncho; Romina Alejandra Torres; Sandra Susana Arroyo Giuliani
@@ -183,19 +196,6 @@ The publication strategy prioritizes established academic repositories and prese
 - **Preserved PDF (author/group copy)**: [Download PDF](open-access/TorresPonce_Cloud-Native-Resilience-DevOps-DORA.pdf)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/phHbrtwdL7qIZ6o)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/oBbaKEvnpPA) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
-
-### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
-
-- **Translated title**: Artificial Intelligence in Mental Health: Patient safety, ethics, and law
-- **Authors**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
-- **Date**: 2025-06-03
-- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
-- **Language**: Spanish
-- **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
-- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **Preservation copy (Internet Archive)**: [View on Internet Archive](https://archive.org/details/zenodo.17297095)
-- **Preserved PDF (author/group copy)**: [Download PDF](open-access/TorresPonce_ArroyoGiuliani_IA-Salud-Mental.pdf)
-- **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/Bx85Tzg-ivNQR1p)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 
