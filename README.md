@@ -162,7 +162,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Translated title**: Artificial Intelligence in Mental Health: Patient safety, ethics, and law
 - **Authors**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
 - **Date**: 2026-06-03
-- **License**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **License**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
