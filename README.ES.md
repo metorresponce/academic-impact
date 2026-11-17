@@ -159,7 +159,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 
 - **Autores**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
 - **Fecha**: 2026-06-03
-- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Licencia**: CC BY-NC-ND 4.0 – © 2026 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Idioma**: Español
 - **Resumen**: Analiza los riesgos éticos, jurídicos y clínicos del uso de la IA en la salud mental, con énfasis en la seguridad del paciente, los sesgos algorítmicos, las limitaciones culturales y el carácter irremplazable de la relación terapéutica humana.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
