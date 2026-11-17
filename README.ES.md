@@ -80,7 +80,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=250203)
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18237585)
-- **PDF del Autor**: [Descargar](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_From-Panopticon-Datapoint.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/gmCKYmr6dGYmrN0)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
@@ -96,7 +96,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
 - **Material complementario**: [Demo cloud-native evidence](https://metorresponce.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) – Demostración en navegador que simula un registro de auditoría encadenado por hash y permite descargar un paquete reproducible en formato JSON.
-- **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_Evidencia-Digital-Cloud-Native.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/ABM-6Nm-GNuu03L)
 
 
@@ -112,7 +112,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
-- **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_Creaciones-con-IA-y-Titularidad.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/RKfH8puppRH8_g_)
 
 ### Informática Forense: El camino de la evidencia digital
@@ -124,10 +124,10 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Licencia**: CC BY 4.0 – © 2020 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Examina la evolución de la informática forense y la cadena de custodia, con énfasis en la verificación de integridad y la transparencia procesal de la evidencia electrónica.
-- **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=3)
+- **Registro bibliográfico en CyTA**: [Consultar en la biblioteca](https://www.cyta.com.ar/biblioteca/bddoc/bdlibros/informatica_forence.htm)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508884)
-- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
+- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_Informatica-Forense-Evidencia-Digital.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/3j8pt6Poc8bxKUb)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
@@ -139,11 +139,11 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Licencia**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Exploración temprana sobre ética de la inteligencia artificial y derechos digitales, centrada en el dilema humano-máquina y la responsabilidad en la toma de decisiones automatizada.
-- **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
+
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
 - **Video complementario**: [Ver en YouTube](https://youtu.be/-ZJk3SwtEu0) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
-- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_Derechos-y-Desafios-de-la-IA.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/eNM0t_OaAcVHuzM)
 
 
@@ -485,7 +485,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - Publicación oficial: [Universidad de Córdoba – Repositorio Institucional Helvia](https://helvia.uco.es/bitstream/handle/10396/32648/2025000003055.pdf?sequence=1)
 - Evidencia de citación (extracto PDF): [Descargar](citations/2025-almache-ia-derecho-ddhh-extract.pdf)
 - Citado como (según el documento): Torres, M. (2019). Derechos y desafíos de la Inteligencia Artificial. Buenos Aires: Ciencia y Técnica Administrativa Informes Científicos y Técnicos.
-- Cita correcta (recomendada): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). [https://cyta.com.ar/bookia/bookia.php?id=1](https://cyta.com.ar/bookia/bookia.php?id=1)
+- Cita correcta (recomendada): Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). [https://doi.org/10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - Contexto de la citación: La tesis utiliza de forma reiterada a Torres (2019) a lo largo de su análisis sobre armas autónomas, clasificación de sistemas de inteligencia artificial y robots, responsabilidad civil, ética de la IA, regulación tecnológica e impacto de la automatización sobre el empleo. Asimismo, incluye una tabla elaborada expresamente a partir de Torres (2019).
 - País: España
 
@@ -499,7 +499,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Publicación oficial**: [Repositorio UNAM de la Dirección General de Bibliotecas (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
 - **Evidencia de citación (extracto PDF)**: [Descargar](citations/2023-ia-ddhh-extract.pdf)
 - **Citado como (según la plataforma)**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*
-- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://doi.org/10.5281/zenodo.17508689*
 - **País**: México
 
 ### Sesgos en la aplicación de IA en el proceso de Selección de Personal
@@ -526,7 +526,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Publicación oficial**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/handle/915/25652)
 - **Evidencia de citación (extracto PDF)**: [Descargar](citations/2021-responsabilidad-civil-extract.pdf)
 - **Citado como (según la plataforma)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*
-- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://doi.org/10.5281/zenodo.17508689*
 - **País**: España
 
 ### What Is The Ethical Use Of AI In Healthcare
@@ -557,7 +557,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Publicación oficial**: [Leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
 - **Nota**: Adaptación profesional del Trabajo Final de Grado *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL)  
 - **Citado como (según la plataforma)**:  *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
-- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://doi.org/10.5281/zenodo.17508689*
 - **País**: España
 
 ---
