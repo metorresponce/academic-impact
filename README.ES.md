@@ -154,6 +154,19 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
 
+
+### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
+
+- **Autores**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
+- **Fecha**: 2026-06-03
+- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Idioma**: Español
+- **Resumen**: Analiza los riesgos éticos, jurídicos y clínicos del uso de la IA en la salud mental, con énfasis en la seguridad del paciente, los sesgos algorítmicos, las limitaciones culturales y el carácter irremplazable de la relación terapéutica humana.
+- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
+- **Copia de preservación (Internet Archive)**: [Ver en Internet Archive](https://archive.org/details/zenodo.17297095)
+- **PDF preservado (copia del autor/grupo)**: [Descargar PDF](open-access/TorresPonce_ArroyoGiuliani_IA-Salud-Mental.pdf)
+- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/lF5dag8LYHGJ4n_)
+
 ### Detecting Is Not Understanding: Functional, audiovisual, and legal analysis of the algorithmic mediation of human movement
 
 - **Título traducido**: Detectar no es Comprender: Análisis funcional, audiovisual y jurídico de la mediación algorítmica del movimiento humano
@@ -182,18 +195,6 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **PDF preservado (copia del autor/grupo)**: [Descargar PDF](open-access/TorresPonce_Cloud-Native-Resilience-DevOps-DORA.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/xw5Vwd2fAfqDsdU)
 - **Vídeo complementario**: [Ver en YouTube](https://youtu.be/oBbaKEvnpPA) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
-
-### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
-
-- **Autores**: Sandra Susana Arroyo Giuliani; Mariano Enrique Torres Ponce
-- **Fecha**: 2025-06-03
-- **Licencia**: CC BY-NC-ND 4.0 – © 2025 Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
-- **Idioma**: Español
-- **Resumen**: Analiza los riesgos éticos, jurídicos y clínicos del uso de la IA en la salud mental, con énfasis en la seguridad del paciente, los sesgos algorítmicos, las limitaciones culturales y el carácter irremplazable de la relación terapéutica humana.
-- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **Copia de preservación (Internet Archive)**: [Ver en Internet Archive](https://archive.org/details/zenodo.17297095)
-- **PDF preservado (copia del autor/grupo)**: [Descargar PDF](open-access/TorresPonce_ArroyoGiuliani_IA-Salud-Mental.pdf)
-- **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/lF5dag8LYHGJ4n_)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 
