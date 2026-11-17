@@ -64,7 +64,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los registros técnicos generados con fines operativos, y no probatorios, transforman la prueba digital y afectan la trazabilidad, las asimetrías técnicas, el debido proceso y el control institucional en entornos automatizados.
 - **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517) / [UOC - URL](https://raco.cat/index.php/IDP/article/view/980000005517)
-- **PDF del Autor**: [Descargar](papers/TorresPonce_2026_Evidencia-no-producida.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_Evidencia-No-Producida-Para-Probar.pdf)
 - **Presentación académica**: [Ver presentación en Canva](https://www.canva.com/d/twJTRoTQC1LF_fT)
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design
