@@ -141,7 +141,6 @@ The publication strategy prioritizes established academic repositories and prese
 - **License**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Early theoretical exploration of AI ethics and digital rights, introducing the human–machine dilemma and accountability in automated decision-making.
-
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/-ZJk3SwtEu0) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
