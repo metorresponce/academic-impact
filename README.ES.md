@@ -139,7 +139,6 @@ La estrategia de publicación prioriza repositorios académicos consolidados y c
 - **Licencia**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Exploración temprana sobre ética de la inteligencia artificial y derechos digitales, centrada en el dilema humano-máquina y la responsabilidad en la toma de decisiones automatizada.
-
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
 - **Video complementario**: [Ver en YouTube](https://youtu.be/-ZJk3SwtEu0) / [Copia de preservación en Archive.org](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
