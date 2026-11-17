@@ -64,7 +64,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **Language**: Spanish
 - **Abstract**: Examines how technical records generated for operational rather than evidentiary purposes reshape digital evidence, due process, traceability, technical asymmetries, and institutional accountability in automated environments.
 - **DOI**: [10.7238/idp.v0i46.980000005517](https://doi.org/10.7238/idp.v0i46.980000005517) / [UOC - URL](https://raco.cat/index.php/IDP/article/view/980000005517)
-- **Preserved PDF (Author / Group Copy)**: [Download](TorresPonce_Evidencia-No-Producida-Para-Probar.pdf)
+- **Preserved PDF (Author / Group Copy)**: [Download](papers/TorresPonce_Evidencia-No-Producida-Para-Probar.pdf)
 - **Academic presentation**: [View presentation on Canva](https://www.canva.com/d/TwyhkhaCC66LTGN)
 
 ### From the Panopticon to the Datapoint: Operational power and governance by design  
@@ -125,7 +125,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **License**: CC BY 4.0 – © 2020 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Reviews the evolution of digital forensics and chain of custody, focusing on integrity verification and procedural transparency in electronic evidence.
-- **Official version**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
+- **CyTA library record**: [Read online](https://www.cyta.com.ar/biblioteca/bddoc/bdlibros/informatica_forence.htm)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
 - **Preserved PDF (Author / Group Copy)**: [Download PDF](papers/TorresPonce_Informatica-Forense-Evidencia-Digital.pdf)
@@ -141,7 +141,7 @@ The publication strategy prioritizes established academic repositories and prese
 - **License**: CC BY 4.0 – © 2019 Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Early theoretical exploration of AI ethics and digital rights, introducing the human–machine dilemma and accountability in automated decision-making.
-- **Official version**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)
+
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
 - **Supplementary video**: [Watch on YouTube](https://youtu.be/-ZJk3SwtEu0) / [Preservation copy on Internet Archive](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
