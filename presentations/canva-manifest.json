@@ -21,12 +21,12 @@
   ],
   "records": [
     {
-      "doi": "10.7238/idp.v0i46.980000013974",
+      "doi": "10.7238/idp.v0i46.980000005517",
       "authors": "Mariano Enrique Torres Ponce",
       "publication_date": "2026-11",
-      "status": "pending_publication",
+      "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": null,
+      "source_pdf": "papers/TorresPonce_Evidencia-No-Producida-Para-Probar.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZWVO166I",
@@ -44,8 +44,9 @@
         }
       },
       "evidence_basis": "readme_abstract_only",
-      "editorial_note": "Prepublication design: not reviewed against complete manuscript. Do not treat as definitive.",
-      "title": "Evidencia que no fue producida para probar: Registros técnicos, automatización y límites de la prueba digital"
+      "editorial_note": "Presentaciones elaboradas antes de la publicación y basadas en el resumen del README; no consta revisión de su contenido contra el texto completo publicado.",
+      "title": "Evidencia que no fue producida para probar: Registros técnicos, automatización y límites de la prueba digital",
+      "source_language": "es"
     },
     {
       "doi": "10.5281/zenodo.18237585",
@@ -53,7 +54,7 @@
       "publication_date": "2026-04-15",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf",
+      "source_pdf": "papers/TorresPonce_From-Panopticon-Datapoint.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbIxamho",
@@ -114,7 +115,7 @@
       "publication_date": "2025-10-15",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf",
+      "source_pdf": "papers/TorresPonce_Evidencia-Digital-Cloud-Native.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbJpejVs",
@@ -175,7 +176,7 @@
       "publication_date": "2025-07-15",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf",
+      "source_pdf": "papers/TorresPonce_Creaciones-con-IA-y-Titularidad.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbJ4zb6c",
@@ -236,7 +237,7 @@
       "publication_date": "2020-11-08",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf",
+      "source_pdf": "papers/TorresPonce_Informatica-Forense-Evidencia-Digital.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbCER6t0",
@@ -297,7 +298,7 @@
       "publication_date": "2019-12-15",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf",
+      "source_pdf": "papers/TorresPonce_Derechos-y-Desafios-de-la-IA.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbMfCPRA",
@@ -358,7 +359,7 @@
       "publication_date": "2026-02-02",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_2026_Detecting-Is-Not-Understanding.pdf",
+      "source_pdf": "open-access/TorresPonce_Moncho_Torres_ArroyoGiuliani_Detecting-Is-Not-Understanding.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbKu8-Xo",
@@ -419,7 +420,7 @@
       "publication_date": "2025-09-17",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf",
+      "source_pdf": "open-access/TorresPonce_Cloud-Native-Resilience-DevOps-DORA.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZba2B-OA",
@@ -480,7 +481,7 @@
       "publication_date": "2025-06-03",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf",
+      "source_pdf": "open-access/TorresPonce_ArroyoGiuliani_IA-Salud-Mental.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbdvB4Ls",
@@ -541,7 +542,7 @@
       "publication_date": "2025-05-21",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf",
+      "source_pdf": "open-access/TorresPonce_Open-Source-Under-the-Cyber-Resilience-Act.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbR1QmMY",
@@ -602,7 +603,7 @@
       "publication_date": "2024-12-20",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf",
+      "source_pdf": "open-access/TorresPonce_Arana_AI-in-US-Healthcare.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbcm2Guk",
@@ -663,7 +664,7 @@
       "publication_date": "2024-07-24",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf",
+      "source_pdf": "open-access/TorresPonce_Propiedad-en-Transicion.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbcr6RK0",
@@ -724,7 +725,7 @@
       "publication_date": "2024-03-14",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf",
+      "source_pdf": "open-access/TorresPonce_Thousand-Click-Bureaucracy.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbRFSDgc",
@@ -785,7 +786,7 @@
       "publication_date": "2023-12-15",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf",
+      "source_pdf": "open-access/TorresPonce_Kubernetes-GitOps-Gobernanza.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbR8gd-Q",
@@ -846,7 +847,7 @@
       "publication_date": "2023-07-20",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf",
+      "source_pdf": "open-access/TorresPonce_Arana_ArroyoGiuliani_Overdiagnosis-Information-Overload.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbVIEAJc",
@@ -907,7 +908,7 @@
       "publication_date": "2023-02-07",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf",
+      "source_pdf": "open-access/TorresPonce_SRE-Law-Technological-Risk.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbUOoXjY",
@@ -968,7 +969,7 @@
       "publication_date": "2022-11-18",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf",
+      "source_pdf": "open-access/TorresPonce_Football-Architecture-of-Global-Justice.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbVQuMZo",
@@ -1029,7 +1030,7 @@
       "publication_date": "2022-03-10",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf",
+      "source_pdf": "open-access/TorresPonce_Del-Panoptico-al-Datapoint.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbZMeImo",
@@ -1090,7 +1091,7 @@
       "publication_date": "2021-11-23",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf",
+      "source_pdf": "open-access/TorresPonce_Arana_Digital-Medicine-in-Health-Emergencies.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbc8niKk",
@@ -1151,7 +1152,7 @@
       "publication_date": "2019-08-07",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf",
+      "source_pdf": "open-access/TorresPonce_Contratos-Informaticos-Argentina.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbe0Ekck",
@@ -1212,7 +1213,7 @@
       "publication_date": "2019-04-10",
       "status": "published",
       "relation_to_marianos_work": "author",
-      "source_pdf": "open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf",
+      "source_pdf": "open-access/TorresPonce_Responsabilidad-Seguridad-Informacion.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbSRHBlM",
@@ -1273,7 +1274,7 @@
       "publication_date": "2023-01-12",
       "status": "published",
       "relation_to_marianos_work": "academic_reviewer",
-      "source_pdf": "open-access/Arana_Torres_ArroyoGiuliani_2023_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf",
+      "source_pdf": "open-access/Arana_Torres_ArroyoGiuliani_Child-Health-Functional-Well-Being-Changing-Social-Contexts.pdf",
       "presentations": {
         "es": {
           "canva_design_id": "DAHZbXRw3U4",

@@ -38,6 +38,20 @@ class ValidationTests(unittest.TestCase):
             (Path(directory) / "paper español.pdf").touch()
             validator.validate_pdf_links("[PDF](paper%20espa%C3%B1ol.pdf#page=2)", "README.md")
 
+    def test_manifest_pdf_matches_bilingual_readme_cards(self):
+        examples = (
+            ("en", "- **Preserved PDF (author/group copy)**: [Download PDF](papers/test.pdf)"),
+            ("es", "- **PDF preservado (copia del autor/grupo)**: [Descargar PDF](papers/test.pdf)"),
+        )
+        for lang, card in examples:
+            with self.subTest(lang=lang):
+                validator.validate_manifest_pdf_mapping(card, "papers/test.pdf", "10.1234/example", lang)
+
+    def test_manifest_rejects_outdated_pdf_filename(self):
+        card = "- **Preserved PDF (author/group copy)**: [Download PDF](papers/new.pdf)"
+        with self.assertRaises(ValueError):
+            validator.validate_manifest_pdf_mapping(card, "papers/old.pdf", "10.1234/example", "en")
+
 
 if __name__ == "__main__":
     unittest.main()

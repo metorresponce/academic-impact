@@ -20,6 +20,11 @@ PRESENTATION = re.compile(
     r"\[[^\]]+\]\((https://[^)]+)\)"
 )
 
+PDF_REFERENCE = re.compile(
+    r"(?m)^- \*\*(?:Preserved PDF \(author/group copy\)|PDF preservado \(copia del autor/grupo\))\*\*: "
+    r"\[[^\]]+\]\(([^)]+\.pdf)\)"
+)
+
 
 def fail(message: str) -> None:
     raise ValueError(message)
@@ -48,6 +53,15 @@ def catalogue(text: str, filename: str) -> dict[str, dict[str, str]]:
     if found != len(PRESENTATION.findall(text)):
         fail(f"{filename}: presentation outside an article card")
     return out
+
+
+def validate_manifest_pdf_mapping(block: str, source_pdf: str | None, doi: str, lang: str) -> None:
+    """The manifest must point to exactly the PDF linked by the article card."""
+    links = PDF_REFERENCE.findall(block)
+    if len(links) != 1:
+        fail(f"{doi} {lang}: expected exactly one preserved PDF link")
+    if source_pdf != links[0]:
+        fail(f"{doi} {lang}: manifest PDF path {source_pdf!r} differs from README path {links[0]!r}")
 
 
 def validate_pdf_links(text: str, filename: str) -> None:
@@ -85,6 +99,7 @@ def main() -> int:
             authors = re.search(r"(?m)^- \*\*(?:Autor(?:es)?|Authors?)\*\*: (.+)", entry["block"])
             if not authors or authors.group(1).strip() != record["authors"]:
                 fail(f"{doi} {lang}: README and manifest authors differ")
+            validate_manifest_pdf_mapping(entry["block"], record.get("source_pdf"), doi, lang)
             design = record["presentations"][lang]
             if design["readme"] != filename:
                 fail(f"{doi}: wrong README language mapping")
@@ -114,18 +129,22 @@ def main() -> int:
         if record["status"] == "published":
             if record.get("source_language") not in {"es", "en"}:
                 fail(f"{doi}: missing or invalid original publication language")
-            for edition_lang in ("es", "en"):
-                edition = record["presentations"][edition_lang]
-                expected_fields = (
-                    edition.get("edition_standard") == "V7"
-                    and edition.get("original_title_first") is True
-                    and edition.get("opposite_language_title_below") is True
-                    and edition.get("original_language_disclosed") is True
-                    and edition.get("alternative_language_presentation_noted") is True
-                    and edition.get("presentation_language") == edition_lang
-                )
-                if not expected_fields:
-                    fail(f"{doi} {edition_lang}: V7 original-title bilingual policy not recorded")
+            if record.get("evidence_basis") == "readme_abstract_only":
+                if not record.get("editorial_note"):
+                    fail(f"{doi}: prepublication presentations require an editorial note")
+            else:
+                for edition_lang in ("es", "en"):
+                    edition = record["presentations"][edition_lang]
+                    expected_fields = (
+                        edition.get("edition_standard") == "V7"
+                        and edition.get("original_title_first") is True
+                        and edition.get("opposite_language_title_below") is True
+                        and edition.get("original_language_disclosed") is True
+                        and edition.get("alternative_language_presentation_noted") is True
+                        and edition.get("presentation_language") == edition_lang
+                    )
+                    if not expected_fields:
+                        fail(f"{doi} {edition_lang}: V7 original-title bilingual policy not recorded")
     print(
         f"OK: {len(records)} papers, {total} bilingual Canva references, "
         "no DOI or URL discrepancies; PDF sources and authorship metadata checked."
